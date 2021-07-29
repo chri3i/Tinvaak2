@@ -46,6 +46,12 @@ Wabbajack Modlist Installer by Althro.
 
 Tinvaak is a list focused on revitalising and reworking SkyrimSE into an acutal roleplaying game. Featuring a wide range of new gameplay mechanics including a fully reworked alchemy system, quests such as Wyrmstooth and Vominhiem, reworked combat using Engarde and a many other items. Version 2.0 has been completely rebuilt and reworked to provide the optimum performance, stability and experience. Get ready to improvise, adapt and survive your way through a revitalised worldspace.
 
+## Creation Ethos
+
+The core element of T2 is roleplaying and having a D&D like feel with some witcher elements thrown in for good measure. The essence of the feeling can be described as this: 
+
+> "The Dragonborn may very well carry the day, but to this uncaring realm, you are just a mortal. Just another person in the worldspace to see and not necessarily interact with. As you advance, weapons drawn, you hesitate, unsure if you can really do this. That tiny pinprick of uncertainty, that small voice of doubt. It's amplified and ever present."
+
 **Please read the ReadMe in Full. The installation process is not completed once you have finished the Wabbajack installation.**
 
 ## System Requirements
@@ -157,7 +163,7 @@ Windows 10 has started to auto quarantine the usvfs_proxy_x86.exe file from the 
 ## Post-Installation
 
 ### Game Folder
-The installation will create a copy of your Skyrim Special Edition game in Instalation Folder/Game Root. This will then contain all the necessary files such as SKSE, ENB Binaries, Reshade Binaries and mod required dlls such as Engine Fixes. There is no need to copy anything to your Steam version of Skyrim as we will be running SKSE from within this folder to play the game.
+The installation will create a copy of your Skyrim Special Edition game in Instalation Folder/Game Root. This will then contain all the necessary files such as SKSE, ENB Binaries and mod required dlls such as Engine Fixes. There is no need to copy anything to your Steam version of Skyrim as we will be running SKSE from within this folder to play the game.
 
 ### ENB
 
