@@ -2,7 +2,7 @@
 
 ![Tinvaak-banner](https://raw.githubusercontent.com/Althro/Tinvaak/gh-pages/NewBanner.jpg)
 
-Wabbajack Modlist Installer by Althro.
+Wabbajack Modlist Installer by The Tinvaak Development Team.
 
 ![status](https://img.shields.io/endpoint?url=https://build.wabbajack.org/lists/status/tinvaak2/badge.json)
 
@@ -74,7 +74,7 @@ Recommended Specs for 1440p:
 
 I run the list at an average of locked 60fps with a few dips here and there at 1440p on the following specs:
 
-- Ryzen 5 3600
+- Ryzen 7 5800X
 - 32GB 3600mhz Ram
 - PCIe Based NVME SSD
 - XFX RX 6800 16GB
@@ -331,8 +331,8 @@ You can just delete the MO2 folder and be done with it.
 ## Credits and Thanks
 
 - _YOU_ for actually reading the readme. Thanks a ton!!
-- TheSpaniard & Chef for assisting in the development and creation of Tinvaak 2.
-- Galaxy Synth (Shelb) for help in the creation, configuration and setup of Tinvaak 1.
+- TheSpaniard, Chef & Annakins for assisting in the development and creation of Tinvaak 2.
+- Galaxy Synth for help in the creation, configuration and setup of Tinvaak 1.
 - Sovn for teaching me the CK and consistency.
 - Noggog for Mutagen.
 - Special thanks to the Synthesis patcher devs.
