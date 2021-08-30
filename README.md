@@ -44,13 +44,17 @@ Wabbajack Modlist Installer by The Tinvaak Development Team.
 
 ## Preamble
 
-Tinvaak is a list focused on revitalising and reworking SkyrimSE into an acutal roleplaying game. Featuring a wide range of new gameplay mechanics including a fully reworked alchemy system, quests such as Wyrmstooth and Vominhiem, reworked combat using Engarde and a many other items. Version 2.0 has been completely rebuilt and reworked to provide the optimum performance, stability and experience. Get ready to improvise, adapt and survive your way through a revitalised worldspace.
+Tinvaak is a list focused on revitalising and reworking SkyrimSE into an actual roleplaying game. Featuring a wide range of new mechanics including a fully reworked combat system courtesy of Engarde and SkySA, Reworked Alchemy, quests such as Wyrmstooth and the VenjHammet Suite, Survival mods, Death Alternative and many other elements.
+
+Version 2.0 has been completely rebuilt and reworked to provide the optimum performance, stability and experience. Get ready to improvise, adapt and survive your way through a revitalised worldspace.
 
 ## Creation Ethos
 
 The core element of T2 is roleplaying and having a D&D like feel with some witcher elements thrown in for good measure. The essence of the feeling can be described as this: 
 
-> "The Dragonborn may very well carry the day, but to this uncaring realm, you are just a mortal. Just another person in the worldspace to see and not necessarily interact with. As you advance, weapons drawn, you hesitate, unsure if you can really do this. That tiny pinprick of uncertainty, that small voice of doubt. It's amplified and ever present."
+> "The Dragonborn may very well carry the day, but to this uncaring realm, you are just a mortal. Just another person in the worldspace to see and not necessarily interact with. As you advance, weapons drawn, you hesitate, unsure if you can really do this. That tiny bit of uncertainty, that small voice of doubt. It's amplified and ever present."
+
+Do not expect vanilla gameplay. Many aspects have been changed from the original game. This list is **not recommended** if this is your first time playing Skyrim.
 
 **Please read the ReadMe in Full. The installation process is not completed once you have finished the Wabbajack installation.**
 
