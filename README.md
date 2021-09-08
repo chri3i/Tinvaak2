@@ -6,9 +6,6 @@ Wabbajack Modlist Installer by The Tinvaak Development Team.
 
 ![status](https://img.shields.io/endpoint?url=https://build.wabbajack.org/lists/status/tinvaak2/badge.json) [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
-This work is licensed under a
-[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
-
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
 
 [cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -57,6 +54,9 @@ Tinvaak is a list focused on revitalising and reworking SkyrimSE into an actual 
 
 Version 2.0 has been completely rebuilt and reworked to provide the optimum performance, stability and experience. Get ready to improvise, adapt and survive your way through a revitalised worldspace.
 
+This work is licensed under a
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
+
 ## Creation Ethos
 
 The core element of T2 is roleplaying and having a D&D like feel with some witcher elements thrown in for good measure. The essence of the feeling can be described as this: 
@@ -69,18 +69,18 @@ Do not expect vanilla gameplay. Many aspects have been changed from the original
 
 ## System Requirements
 
-Tinvaak is aimed at mid to higher end machines in terms of system requirements.
+2.0 of Tinvaak has been tested on a variety of machines to help better understand the system requirements of the list. It is aimed at mid to higher tier machines in terms of system requirements.
 
 Recommended Specs for 1080p:
 
-- 2nd Gen Ryzen / 7th Gen Intel i5 or better
+- 2nd Gen Ryzen (2800x) / 7th Gen Intel i5 or better
 - 16GB Ram
 - SSD
 - 6GB GPU such as GTX 1660 Super or RX 5600xt
 
 Recommended Specs for 1440p:
 
-- 3rd Gen Ryzen / 9th Gen Intel i5 or better
+- 3rd Gen Ryzen (3600) / 9th Gen Intel i5 or better
 - 32GB Ram
 - NVME SSD
 - 8GB GPU such as RTX 3070 or RX 6700XT
