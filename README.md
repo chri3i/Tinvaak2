@@ -4,7 +4,7 @@
 
 Wabbajack Modlist Installer by The Tinvaak Development Team.
 
-![status](https://img.shields.io/endpoint?url=https://build.wabbajack.org/lists/status/tinvaak2/badge.json) [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
 
@@ -50,7 +50,7 @@ Wabbajack Modlist Installer by The Tinvaak Development Team.
 
 ## Preamble
 
-Tinvaak is a list focused on revitalising and reworking SkyrimSE into an actual roleplaying game. Featuring a wide range of new mechanics including a fully reworked combat system courtesy of Engarde and SkySA, Settlement building, Reworked Alchemy, quests such as Wyrmstooth and the VenjHammet Suite, Survival mods, Death Alternative and many other elements.
+Tinvaak is a list focused on revitalising and reworking SkyrimSE into an actual roleplaying game. Featuring a wide range of new mechanics including a fully reworked combat system courtesy of Engarde and SkySA, Settlement building, Reworked Alchemy, quests such as Wyrmstooth and the VenjHammet Suite, Survival mods, optional Khajiit Speak and many other elements.
 
 Version 2.0 has been completely rebuilt and reworked to provide the optimum performance, stability and experience. Get ready to improvise, adapt and survive your way through a revitalised worldspace.
 
@@ -93,7 +93,7 @@ I run the list at an average of locked 60fps with a few dips here and there at 1
 - XFX RX 6800 16GB
 - Windows 11 Dev Branch
 
-Space required: Approx 200GB
+Space required: Approx 230GB
 
 ## Installation
 
@@ -216,11 +216,6 @@ Most of the *required* MCM options have been automated for you.
 ### A Matter of Time (Optional)
 - Presets
 	- Load User Settings
-
-### Cold Region Behavior
-- General Settings
-	- Main Settings
-		- Enable Mod Features
 
 ### Immersive Hud
 - Options
