@@ -69,21 +69,23 @@ Do not expect vanilla gameplay. Many aspects have been changed from the original
 
 ## System Requirements
 
-2.0 of Tinvaak has been tested on a variety of machines to help better understand the system requirements of the list. It is aimed at mid to higher tier machines in terms of system requirements.
+2.0 of Tinvaak has been tested on a variety of machines to help better understand the system requirements of the list. It is aimed at mid to higher tier machines in terms of system requirements. 
+
+ - *NOTE: T2 can be very graphically demanding so it is highly recommended to be installed on a SSD and that you have at least 16GB of RAM. It may be possible to run on lower spec systems, however these specs are the recommended ones.*
 
 Recommended Specs for 1080p:
 
 - 2nd Gen Ryzen (2800x) / 7th Gen Intel i5 or better
 - 16GB Ram
 - SSD
-- 6GB GPU such as GTX 1660 Super or RX 5600xt
+- 6GB GPU such as GTX 1660 Super or RX 5600xt minimum; 8GB GPU such as 5700xt or GTX 1080 recommended.
 
 Recommended Specs for 1440p:
 
 - 3rd Gen Ryzen (3600) / 9th Gen Intel i5 or better
 - 32GB Ram
 - NVME SSD
-- 8GB GPU such as RTX 3070 or RX 6700XT
+- 8GB GPU such as RTX 3070 or RX 6700XT minimum; 10GB+ GPU such as RTX 3080TI or RX 6800 recommended.
 
 I run the list at an average of locked 60fps with a few dips here and there at 1440p on the following specs:
 
@@ -220,19 +222,12 @@ Most of the *required* MCM options have been automated for you.
 ### Immersive Hud
 - Options
 	- Enable fast fade of health	
-
-### Violens
-- Profile System
-	- Menu Settings
-		- Load: Tinvaak.vlms
  
 Tweak the following to your liking:
 
 - SkyUI
 - Lucien (If you set a nickname that's supported he can call you by that name)
 - MoreHUD
-- Extended Encounters
-- Thieves Guild Requirements
 
 For Widescreen users: 
 - Extended UI: Aspect Ratio
@@ -254,13 +249,9 @@ Once you have finished the MCM setup, create your character in race menu. Be as 
 
 ## Other Post Installation FAQ
 
-### Controlmap
+### Controller Setup
 
-These are currently the custom controls added by Mods. Feel free to customize them within the Mod's MCM menus
-
-- Hold 'E' to turn on Quicklight
-
-Hold right click to block while dual wielding. Left click alternates left and right hand. This also works with the SkyRe unarmed weapon.
+`WIP`
 
 ### Ultrawide Options
 
