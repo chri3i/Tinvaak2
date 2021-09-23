@@ -4,7 +4,7 @@ Almost every aspect of vanilla gameplay in Tinvaak has been changed in some way.
 
 ## Gameplay
 
-Tinvaak uses Master of One as it's perk overhaul. The basis of the mod is to provide a mixture of positives and negatives to taking perks. With power, comes consequences.
+Tinvaak uses [Ordii](https://www.nexusmods.com/skyrimspecialedition/mods/55200) as it's perk overhaul. This is a slightly tweaked version of Ordinator which allows for skill caps of over 100 and uses Vokrii's skill scaling.
 
 Various other gameplay mods used include:
 
