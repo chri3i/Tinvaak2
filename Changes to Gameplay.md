@@ -10,69 +10,59 @@ Various other gameplay mods used include:
 
 1. [Experience](https://www.nexusmods.com/skyrimspecialedition/mods/17751) drastically changes how pacing in the game is done. Rather than only getting experience on skill level ups, you now gain experience level for completing quests and killing monsters.
 
-2. [Class Overhaul Re Imagined(CORI)](https://www.nexusmods.com/skyrimspecialedition/mods/24808) and [Early Life Skill Adjustment(ELSA)](https://www.nexusmods.com/skyrimspecialedition/mods/23126) form the core of the roleplaying overhaul mods. Your character will now develop and can specialise in areas right from the start.
+2. [Class Overhaul Re Imagined(CORI)](https://www.nexusmods.com/skyrimspecialedition/mods/24808) and [Attribute Value Application(AVA)](https://www.nexusmods.com/skyrimspecialedition/mods/23329) form the core of the roleplaying overhaul mods. Your character will now develop and can specialise in areas right from the start.
 
-3. [Aetherius - A Race Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/26686) is a streamlined race overhaul designed to make races more meaningful without making them more restrictive. Greater powers have been removed in favor of modest but desirable passives. Although each race has been designed to fill a specific role, the nature of these bonuses allow for a broad range of builds to benefit from them. 
+3. [Palladium Racials](https://www.nexusmods.com/skyrimspecialedition/mods/43890) fundamentally changes how races are done with an emphasis of putting both NPCs and the player on a even playing field. Expect a different experience from what you are used with certain races being more skilled than others in certain areas.
 
 4. [Growl - Werebeasts of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/31245) for overhauling Lycanthrophy and adding the option to play as a werebear.
 
 5. [Sacrilege](https://www.nexusmods.com/skyrimspecialedition/mods/42408) is a high depth, low complexity vampire mod. It is a cleaned up and slimmed down version of Sacrosanct, offering an in-depth vampire experience without feature bloat. 
 
-6. [Skyrim Alchemy and Food Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/12343) A comprehensive change to food inspired by Requiem Overhaul and BRG The Gourmet from Legendary Edition 
- 	- We're only using the food portion of this mod, SkyRe handles alchemy.
+6. [Heim - Smithing Tweaks and Lightweight Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/54207)provides an overhaul to smithing with minimal edits to ensure compatibility. You will need to find forging manuals in order to unlock each respective category in the forge menu.
 
-7. [iHarvest](https://www.nexusmods.com/skyrimspecialedition/mods/27789) This mod adds a single spell, "Harvest". To use the spell, just cast it. Note that, as a concentration spell, it will continue to operate as long as you cast it. It will scan your surroundings, learn what in the area can be harvested, and finally send out little, magical Getter Critters to fetch stuff for you. To get the spell, you'll have to find a spellbook.
+7. [Open World Loot](https://www.nexusmods.com/skyrimspecialedition/mods/49681) changes loot and encounter zones to provide an open world and immersive experience, letting the player have a sense of progression as well as obtaining believable and balanced loots throughout your adventure and exploration. 
 
 8. [Khajiit Speak](https://www.nexusmods.com/skyrimspecialedition/mods/37197) is used in the Tinvaak Khajiit Speak Profile, along with many patches, as well as custom patches specific to Tinvaak.
 
-9. [Lethal Traps](https://www.nexusmods.com/skyrimspecialedition/mods/3860) traps dispersed around the world of Skyrim will now deal much more damage, alert nearby enemies and can also stagger you! In addition to all of this, traps are unleveled, carefully balanced and are much more effective against enemies. 
+9. [Dragon War](https://www.nexusmods.com/skyrimspecialedition/mods/51310) changes Dragons so that they feel like a true boss fight, with a range of new attacks and abilities. Expect Dragons to offer a true battle to remember.
 
-10. [Zim's Dragon Improvements](https://www.nexusmods.com/skyrimspecialedition/mods/38693) The aim of this mod is to provide a subtle, lore-friendly improvement to the Dragons of Skyrim that makes encountering one feel more like a boss fight and less like a slightly-more-difficult animal encounter. 
+10. [Apothecary](https://www.nexusmods.com/skyrimspecialedition/mods/52130)is a complete overhaul of Skyrim’s alchemy, food, and alcohol systems designed to balance existing options while adding powerful new effects to the game. This is coupled with [BA Alchemist Arsenal](https://www.nexusmods.com/skyrimspecialedition/mods/42030) and other mods to open up many new playstyles and alchmical items.
 
-## Magic and Religion Mods
+## Magic Mods
 
-Tinvaak comes with a few of the popular magic and religion mods which have been fully patched to fit in with both SkyRe and the world that Tinvaak creates.
+Tinvaak comes with a a curated selection of Magic mods to fit a range of different mage archetypes.
 
 1. [Triumvirate - Mage Archetypes](https://www.nexusmods.com/skyrimspecialedition/mods/39170) which adds new mage archetypes to the game.
 
-2. [Apocalypse - Magic of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/1090) is the most popular Skyrim spell pack, adding 155 new spells that are unique, balanced, lore friendly, use high quality custom visuals and blend seamlessly into the vanilla magic system. Also includes scrolls and staves for the new spells.
+2. [The Dark Arts](https://www.nexusmods.com/skyrimspecialedition/mods/29834) seeks to improve the Necromancy experience in Skyrim. It allows you to customize reanimated thralls, introduces rituals to create and upgrade a wide range of undead creatures, allows players to dissect corpses and harvest ingredients, reintroduces the Shade of the Revenant and adds a few Necromancy related spells
 
-3. [Odin - Skyrim Magic Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/46000) complements Apocalypse by adding a lot of new staves and scrolls to the game which are lore friendly and slot into the world nicely.
+3. [Odin - Skyrim Magic Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/46000) improves and fixes vanilla Skyrim spells, makes scrolls and staves viable, and adds new spells, scrolls and staves inspired by previous Elder Scrolls magic.
 
-4. [Mysticism](https://www.nexusmods.com/skyrimspecialedition/mods/27839) overhauls vanilla spells and also adds in some lore friendly ones which slot into the world rather nicely.
-
-5. [Trua - Minimalistic Faiths of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/32549) adds a lite roleplaying flavor religion aspect to the game.
-
-6. [Renounce the Daedra: Epic Restoration Lite](https://www.nexusmods.com/skyrimspecialedition/mods/36100)  this mod adds a Restoration spell called Renounce. If you cast it during a Daedric quest, it'll fail it automatically. Beware, cultists nearby may turn against you. 
-    - You can find a tome in the following locations:
-        - Whiterun, the Temple of Kynareth, on the bench next to the altar
-        - Hall of the Vigilants, on one of the benches.
-        - Markarth, Temple of Dibella, near an altar
-        - Riften, Temple of Mara, on the main desk
-        - Solitude, Temple of the Divines, near Stendarr's shrine
+4. [Summermyst](https://www.nexusmods.com/skyrimspecialedition/mods/6285) overhauls and adds new enchantments to the world. This has been custom tweaked to ensure optimum variety and diversity.
 
 ## Quest and Encounter Mods
 
 Tinvaak comes with a wide variety of new quest and encounters. A few are listed below.
 
-1. [Skyrim Realistic Conquering](https://www.nexusmods.com/skyrimspecialedition/mods/26396) Turn your adventures into a game filled with consequences. For the good natured adventurer, this mod allows you to see the changes you made actually take effect. The world will be repopulated as you free Skyrim of its fouls inhabitants.
+1. [Skyrim Realistic Conquering](https://www.nexusmods.com/skyrimspecialedition/mods/26396) and [Lawbringer](https://www.nexusmods.com/skyrimspecialedition/mods/29882) allow you to make an impact on Skyrim by clearing locations for factions or guards. Once claimed or cleared, the locations will change accordingly.
 
-2. [The Brotherhood of Old](https://www.nexusmods.com/skyrimspecialedition/mods/15322) is a quest mod for Skyrim, taking place after the final quest in the original Dark Brotherhood questline. This 24 quest epic will take you all across the land of Skyrim, as you try and rebuild the Brotherhood and strengthen it against future attacks. 
+2. [HeadHunter](https://www.nexusmods.com/skyrimspecialedition/mods/51847)expands bounty quests for Bandits, Forsworn, Giants and Dragons. Like in the Witcher 3, you can bring "trophies" from your enemy to the Jarl as proof of the bounty or deliver the captured bandits to a guard for justice.
 
 3. [The Forgotten City](https://www.nexusmods.com/skyrimspecialedition/mods/1179) is the first mod in history to win a national Writers' Guild award for its script. It is a critically acclaimed expansion mod offering a unique 6 - 8 hour experience: a murder mystery investigation set in an ancient underground city. You'll need to solve it using your wits, and the ability to travel through time... 
 
-4. [Project AHO](https://www.nexusmods.com/skyrimspecialedition/mods/15996) is a large quest modification, comparable in size to a medium-sized DLC. Designed in the best traditions of Bethesda Game Studios, this mod adds to Skyrim a hidden settlement of Great Homee Telvanni. Determine its fate for yourself! 
-	- We also have the Unofficial Patches for Project AHO.
+4. [OBIS SE](https://www.nexusmods.com/skyrimspecialedition/mods/4145), [High Level Enemies Redux](https://www.nexusmods.com/skyrimspecialedition/mods/32801), [Heritage](https://www.nexusmods.com/skyrimspecialedition/mods/30017) and Druidic Bandits form the core of the expanded enemy system. Encounters will no longer be simple affiars, with a larger variety of bandits and more of them. Expect the unexpected.
 
-5. [Extended Encounters SSE](https://archive.org/details/extendedencounters1.5sse) is a simple mod that adds to the pool of random roadside, wilderness and location encounters in a way that makes the world seem a bit more dynamic and alive without negatively affecting game performance or bloating your save file. For example, you'll see mercenaries out in the world doing their job, faction raids on specific locations, adventurers traveling into dungeons, guards clearing bandit camps, and so on. You will also see new visitors at settlements, towns and cities from time to time. NPCs may also deviate from their regular routine to visit different locations. Sleeping and waiting in or fast traveling to a dangerome location such as a bandit camp or vampire lair may also lead to an encounter with denizens that call those places home. An MCM is included that allows you to toggle all features added by this mod.
+5. [Skyrim Immersive Creatures](https://www.nexusmods.com/skyrimspecialedition/mods/12680) adds dozens of new creatures to enhance your gaming experience. This mod adds brand new creatures which fit in to the world of Skyrim, alongside variations of existing creatures, adding diversity and improving gameplay.
 
-6. [Missives](https://www.nexusmods.com/skyrimspecialedition/mods/17576) adds a large number of localized radiant quests found at Missive Boards of varying difficulty and with varying rewards.
+6. [Missives](https://www.nexusmods.com/skyrimspecialedition/mods/17576) adds a large number of localized radiant quests found at Missive Boards of varying difficulty and with varying rewards. 
 
 ## Expanded Cities Towns and Villages
 
-Tinvaak uses a carefully selected range of city, town and village mods that balance new additions with performance. In the case where a mod was deemed to be a little too performance heavy, optimisation passes have been made to remove unnescessary clutter.
+`wip`
 
-1. [JK's SuperLite](https://www.nexusmods.com/skyrim/mods/71018) and [Dawn of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/9074) are the mods that overhaul the main cities. These have been merged together to provide a performance friendly new take on the hold capitals.
+Tinvaak uses a range of different settlement mods to try and give each location it's own unique flair. In areas where compatability or performance was sub-optimal, this has been patched and tweaked.
+
+1. 
 
 2. [Cities of the North Dawnstar](https://www.nexusmods.com/skyrimspecialedition/mods/28952), [Cities of the North Morthal](https://www.nexusmods.com/skyrimspecialedition/mods/34168), [The Great City of Falkreath](https://www.nexusmods.com/skyrimspecialedition/mods/19709) and [Capital of Winterhold](https://www.nexusmods.com/skyrimspecialedition/mods/34222) are used to breathe new life into the minor holds and create an experience that feels both fresh and memorable.
 
