@@ -69,9 +69,9 @@ Do not expect vanilla gameplay. Many aspects have been changed from the original
 
 ## System Requirements
 
-2.0 of Tinvaak has been tested on a variety of machines to help better understand the system requirements of the list. It is aimed at mid to higher tier machines in terms of system requirements. 
+2.0 of Tinvaak has been tested on a variety of machines to help better understand the system requirements of the list. It is aimed at higher tier machines in terms of system requirements. 
 
- - *NOTE: T2 can be very graphically demanding so it is highly recommended to be installed on a SSD and that you have at least 16GB of RAM. It may be possible to run on lower spec systems, however these specs are the recommended ones.*
+ - *NOTE: T2 is **very** graphically demanding so it is highly recommended to be installed on a SSD and that you have at least 16GB of RAM. It may be possible to run on lower spec systems, however these specs are the recommended ones.*
 
 Recommended Specs for 1080p:
 
@@ -95,7 +95,7 @@ I run the list at an average of locked 60fps with a few dips here and there at 1
 - XFX RX 6800 16GB
 - Windows 11 Dev Branch
 
-Space required: Approx 230GB
+Space required: Approx 250GB
 
 ## Installation
 
