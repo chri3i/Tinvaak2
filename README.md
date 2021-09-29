@@ -1,6 +1,6 @@
 # Tinvaak 2
 
-![Tinvaak-banner](https://raw.githubusercontent.com/Althro/Tinvaak/gh-pages/NewBanner.jpg)
+![Tinvaak-banner](https://raw.githubusercontent.com/Althro/Tinvaak2/main/.github/T2%20Draft%20Banner.webp)
 
 Wabbajack Modlist Installer by The Tinvaak Development Team.
 
@@ -85,7 +85,7 @@ Recommended Specs for 1440p:
 - 3rd Gen Ryzen (3600) / 9th Gen Intel i5 or better
 - 32GB Ram
 - NVME SSD
-- 8GB GPU such as RTX 3070 or RX 6700XT minimum; 10GB+ GPU such as RTX 3080TI or RX 6800 recommended.
+- 8GB GPU such as RTX 2080 or RX 6700XT minimum; 10GB+ GPU such as RTX 3080TI or RX 6800 recommended.
 
 I run the list at an average of locked 60fps with a few dips here and there at 1440p on the following specs:
 
@@ -94,6 +94,14 @@ I run the list at an average of locked 60fps with a few dips here and there at 1
 - PCIe Based NVME SSD
 - XFX RX 6800 16GB
 - Windows 11 Dev Branch
+
+One of the Dev Team runs the list at an average of locked 60 fps on the following specs:
+
+- 2nd Gen Ryzen
+- 32GB Ram
+- Sata based SSD
+- RTX 2080
+- Ultrawide 21:9 1080p screen
 
 Space required: Approx 250GB
 
@@ -213,21 +221,12 @@ Please do not expect the game to be functionally similar to vanilla. There are a
 
 ## In-Game MCM Options
 
-Most of the *required* MCM options have been automated for you.
+All of the **Required MCM** setups have been automated and set for you.
 
-### A Matter of Time (Optional)
-- Presets
-	- Load User Settings
-
-### Immersive Hud
-- Options
-	- Enable fast fade of health	
- 
 Tweak the following to your liking:
 
 - SkyUI
 - Lucien (If you set a nickname that's supported he can call you by that name)
-- MoreHUD
 
 For Widescreen users: 
 - Extended UI: Aspect Ratio
@@ -251,27 +250,13 @@ Once you have finished the MCM setup, create your character in race menu. Be as 
 
 ### Controller Setup
 
-`WIP`
+Please follow this excellent guide by ShadesOfDawn and Chri3i for setting up a controller with Tinvaak.
 
 ### Ultrawide Options
 
 I do not use an Ultrawide monitor thus cannot offer support beyond what is below.
 
-If you have an ultrawide monitor (21:9), the UI will be off. You will want to enable Oblivion Loading Screens 21x9, and disable 16x9.
-
-You will also want to install the SkyUI, Better Dialogue Controls, Better messagebox Controls, Campfire, Experience, Racemenu, Flashing Savegame Fix, and Extended UI - High Resolution Widescreen fixes from [here](https://www.nexusmods.com/skyrimspecialedition/mods/1778/?).
-
-Furthermore, you may choose to alter the ingame HUD to fit 21:9. For this, I recommend switching to Less Intrusive HUD found [here](https://www.nexusmods.com/skyrimspecialedition/mods/17974). Make sure to grab the Fisses patch as well.
-
-In Mod Organizer, in the left pane, find and disable (uncheck) SkyHUD and Customizable UI Replacer - SkyHUD.
-
-Head over [here](https://www.nexusmods.com/skyrimspecialedition/mods/18398/?tab=files) and grab the download for the Less Intrusive HUD version.
-
-When installing Customizable UI, rename it to indicate that is the LIH version, be sure NOT to Merge or Overwrite the existing mod in MO2.
-
-You will also need to reinstall the mod *Dialogue Interface Reshaped* and select your resolution in there.
-
-Once you get in game, head over to the Less Intrusive HUD modpage and see how to alter the postion/size/color/and much more of any HUD aspect, all ingame!
+Horizon UI inlcudes a 21:9 profile which you should activate, alongside the 21x9 loading screens replacer.
 
 ### Tweaking the Game Settings
 
@@ -332,19 +317,17 @@ You can just delete the MO2 folder and be done with it.
 - _YOU_ for actually reading the readme. Thanks a ton!!
 - TheSpaniard, Chef & Annakins for assisting in the development and creation of Tinvaak 2.
 - Galaxy Synth for help in the creation, configuration and setup of Tinvaak 1.
-- Sovn for teaching me the CK and consistency.
 - Noggog for Mutagen.
 - Special thanks to the Synthesis patcher devs.
 - erri120 & jdsmith2816 - Repository template.
-- iXanza for recompiled MCM scripts for automation.
+- iXanza, JanuarySnow and Nem for recompiled MCM scripts for automation.
 - Halgari and everyone the WJ Team - Wabbajack is awesome and so are you.
-- Mantis for Ultrawide installation instructions.
-- Catir for the new logo for the list.
+- Chef for Ultrawide installation instructions.
 - My amazing Patreons.
 
 ## Contact
 
-Whilst I'm always available on the [Wabbajack Discord](https://discord.gg/wabbajack) and my server, I would advise checking the [Issues](https://github.com/Althro/Tinvaak/issues) (open **and** closed ones) on GitHub first if you have any problems. **DO NOT DM ME ON DISCORD. I WILL NOT PROVIDE SUPPORT FOR YOU IN DMS**.
+Whilst I'm always available on the [Wabbajack Discord](https://discord.gg/wabbajack) and my server, I would advise checking the [Issues](https://github.com/Althro/Tinvaak2/issues) (open **and** closed ones) on GitHub first if you have any problems. **DO NOT DM ME ON DISCORD. I WILL NOT PROVIDE SUPPORT FOR YOU IN DMS**.
 
 ## Contributing
 
