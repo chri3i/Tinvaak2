@@ -37,7 +37,6 @@ Wabbajack Modlist Installer by The Tinvaak Development Team.
   - [In-Game MCM Options](#in-game-mcm-options)
   - [Creating your Character](#creating-your-character)
   - [Other Post Installation FAQ](#other-post-installation-faq)
-    - [Controlmap](#controlmap)
     - [Ultrawide Options](#ultrawide-options)
     - [Tweaking the Game Settings](#tweaking-the-game-settings)
 	- [Tweaking the ENB](#tweaking-the-enb)
@@ -215,18 +214,27 @@ Updating is like installing. You only have to make sure that you select the same
 
 ## Changes to Gameplay
 
-A video showcase on what is in Tinvaak 2 can be viewed here: `coming soon`
+A video showcase on what is in Tinvaak 2 can be viewed in the trailer `coming soon`
 
-Please do not expect the game to be functionally similar to vanilla. There are a lot of mods installed that modify core base game functionality as well as adding on new mechanics. Please see `Coming Soon` for a non-exhaustive list of changes in Tinvaak.
+Please do not expect the game to be functionally similar to vanilla. There are a lot of mods installed that modify core base game functionality as well as adding on new mechanics. Please see the [Changes to Gameplay](https://github.com/Althro/Tinvaak2/blob/main/Changes%20to%20Gameplay.md) article for a non-exhaustive list of changes in Tinvaak.
 
 ## In-Game MCM Options
 
-All of the **Required MCM** setups have been automated and set for you.
+Most of the **Required MCM** setups have been automated and set for you. There is only one which is not automated, due to the option being present to change your preferred keys.
+
+**CASM**
+
+- Follow all the settings below, aside from the Quicksave and Quickload keys. You can set these to whatever you wish, or leave them as below.
+
+![alt text](https://cdn.discordapp.com/attachments/889260652185649173/892766181306560522/CASMSettings1.png)
+
+![alt text](https://cdn.discordapp.com/attachments/889260652185649173/892766220825264178/CASMSettings2.png)
 
 Tweak the following to your liking:
 
 - SkyUI
 - Lucien (If you set a nickname that's supported he can call you by that name)
+- RASS
 
 For Widescreen users: 
 - Extended UI: Aspect Ratio
@@ -236,11 +244,9 @@ Configure this MCM last. Select your loadout, dragons, and dragonborn status. Wh
 
 ## Creating your Character
 
-Once you have finished the MCM setup, create your character in race menu. Be as creative as you want :D
+Once you have finished the MCM setup, create your character in race menu. There are some Racemenu presets included with the list for you to use if you wish to.
 
-### If you chose to use survival mods
-
-#### Sunhelm (Do This after character creation and you have spawned into the world.)
+### Sunhelm (Do This after character creation and you have spawned into the world.)
 - General Settings
 	- Gameplay Options
 		- Toggle Raw Meat Damage [unchecked]
@@ -250,7 +256,7 @@ Once you have finished the MCM setup, create your character in race menu. Be as 
 
 ### Controller Setup
 
-Please follow this excellent guide by ShadesOfDawn and Chri3i for setting up a controller with Tinvaak.
+Please follow this [excellent guide by ShadesOfDawn and Chri3i](https://github.com/chri3i/Gamepad-Guide-by-ShadesOfDawn-and-me) for setting up a controller with Tinvaak. Antimicro is included with the list to allow for Engarde compatability.
 
 ### Ultrawide Options
 
@@ -287,16 +293,8 @@ If you're really struggling with FPS but want the color correction and realism, 
   - ComplexFireLights
   - ComplexParticleLights
   - Reflection
-  
-#### Darkness Settings
- 
- - If you want the game to be brighter or darker, you can use the Vivid Weathers MCM.
 
 ##### If you cannot handle the ENB: Disable `useEffect` in enbseries.ini
-
-#### More color correction
-
-Fiddle with the Vivid Weathers MCM for more color customization.
 
 ### Zoomed in Display
 
@@ -331,8 +329,8 @@ Whilst I'm always available on the [Wabbajack Discord](https://discord.gg/wabbaj
 
 ## Contributing
 
-See [Contributing](https://github.com/Althro/Tinvaak/blob/main/CONTRIBUTING.md).
+See [Contributing](https://github.com/Althro/Tinvaak2/blob/main/CONTRIBUTING.md).
 
 ## Changelog
 
-See [Changelog](https://github.com/Althro/Tinvaak/blob/main/Changelog.md).
+See [Changelog](https://github.com/Althro/Tinvaak2/blob/main/Changelog.md).
