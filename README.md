@@ -319,6 +319,7 @@ You can just delete the MO2 folder and be done with it.
 - Special thanks to the Synthesis patcher devs.
 - erri120 & jdsmith2816 - Repository template.
 - iXanza, JanuarySnow and Nem for recompiled MCM scripts for automation.
+- Shuckleberry for Skyrim Unbound Presets.
 - Halgari and everyone the WJ Team - Wabbajack is awesome and so are you.
 - Chef for Ultrawide installation instructions.
 - My amazing Patreons.
