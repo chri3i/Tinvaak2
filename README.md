@@ -222,19 +222,13 @@ Please do not expect the game to be functionally similar to vanilla. There are a
 
 Most of the **Required MCM** setups have been automated and set for you. There is only one which is not automated, due to the option being present to change your preferred keys.
 
-**CASM**
-
-- Follow all the settings below, aside from the Quicksave and Quickload keys. You can set these to whatever you wish, or leave them as below.
-
-![alt text](https://cdn.discordapp.com/attachments/889260652185649173/892766181306560522/CASMSettings1.png)
-
-![alt text](https://cdn.discordapp.com/attachments/889260652185649173/892766220825264178/CASMSettings2.png)
-
 Tweak the following to your liking:
 
 - SkyUI
 - Lucien (If you set a nickname that's supported he can call you by that name)
 - RASS
+- Storm Lightning
+- Lock Overhaul (**Do not enable the spell unlock**)
 
 For Widescreen users: 
 - Extended UI: Aspect Ratio
