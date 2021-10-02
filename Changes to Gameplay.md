@@ -16,7 +16,7 @@ Various other gameplay mods used include:
 
 3. [Palladium Racials](https://www.nexusmods.com/skyrimspecialedition/mods/43890) fundamentally changes how races are done with an emphasis of putting both NPCs and the player on a even playing field. Expect a different experience from what you are used with certain races being more skilled than others in certain areas.
 
-4. [Growl - Werebeasts of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/31245) for overhauling Lycanthrophy and adding the option to play as a werebear.
+4. [Manbeast - A Werewolf Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/44746) is a complete overhaul of Skyrim’s Werewolf system designed to balance existing Werewolf mechanics and add powerful new lycanthropic abilities to the game. This is used alongside [Simple Werewolf Favourite Howls](https://www.nexusmods.com/skyrimspecialedition/mods/35736) to provide a consistent experience across both vampire lords and werebeasts.
 
 5. [Sacrilege](https://www.nexusmods.com/skyrimspecialedition/mods/42408) is a high depth, low complexity vampire mod. It is a cleaned up and slimmed down version of Sacrosanct, offering an in-depth vampire experience without feature bloat. 
 
@@ -41,6 +41,8 @@ Tinvaak comes with a a curated selection of Magic mods to fit a range of differe
 3. [Odin - Skyrim Magic Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/46000) improves and fixes vanilla Skyrim spells, makes scrolls and staves viable, and adds new spells, scrolls and staves inspired by previous Elder Scrolls magic.
 
 4. [Summermyst](https://www.nexusmods.com/skyrimspecialedition/mods/6285) overhauls and adds new enchantments to the world. This has been custom tweaked to ensure optimum variety and diversity.
+
+5. [Undeath](https://www.nexusmods.com/skyrimspecialedition/mods/6180) gives the player the opportunity to become, through the course of their long and arduous journey of exploration and study, a terrifying and destructive undead Lich. [Classic Lichdom](https://www.nexusmods.com/skyrimspecialedition/mods/40802) and [Prelude to Purgatory](https://www.nexusmods.com/skyrimspecialedition/mods/53143) are also used to both fix and enhance this mechanic to offer a true, 'third' archetype for characters to play.
 
 ## Combat Mods
 
