@@ -324,7 +324,7 @@ Whilst I'm always available on the [Wabbajack Discord](https://discord.gg/wabbaj
 
 ## Contributing
 
-See [Contributing](https://github.com/Althro/Tinvaak2/blob/main/CONTRIBUTING.md).
+See [Contributing](https://github.com/Althro/Tinvaak2/blob/main/Contributing.md).
 
 ## Changelog
 
