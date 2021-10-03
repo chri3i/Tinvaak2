@@ -220,21 +220,21 @@ Please do not expect the game to be functionally similar to vanilla. There are a
 
 ## In-Game MCM Options
 
-Most of the **Required MCM** setups have been automated and set for you. There is only one which is not automated, due to the option being present to change your preferred keys.
+Most of the **Required MCM** setups have been automated and set for you.
 
 Tweak the following to your liking:
 
 - SkyUI
 - Lucien (If you set a nickname that's supported he can call you by that name)
 - RASS
-- Storm Lightning
+- Storm Lightning (I recommend the ultra-realistic preset)
 - Lock Overhaul (**Do not enable the spell unlock**)
 
 For Widescreen users: 
 - Extended UI: Aspect Ratio
 
 ### Skyrim Unbound
-Configure this MCM last. Select your loadout, dragons, and dragonborn status. When you're ready to create your character, select `Let's go!`
+Configure this MCM last. Select your loadout, dragons, and dragonborn status. **Note**: If you want to be dragonborn, you have to set your dragonborn status to be dragonborn and not random. There are some pre-made presets that you can use if you are struggling to think of what to play. When you're ready to create your character, select `Let's go!`
 
 ## Creating your Character
 
