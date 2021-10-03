@@ -1,6 +1,6 @@
 # Tinvaak 2
 
-![Tinvaak-banner](https://raw.githubusercontent.com/Althro/Tinvaak2/main/.github/T2%20Draft%20Banner.webp)
+![Tinvaak-banner](https://raw.githubusercontent.com/Althro/Tinvaak2/main/.github/T2Banner.webp)
 
 Wabbajack Modlist Installer by The Tinvaak Development Team.
 
