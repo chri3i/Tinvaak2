@@ -185,16 +185,16 @@ Windows 10 has started to auto quarantine the usvfs_proxy_x86.exe file from the 
 ## Post-Installation
 
 ### Game Folder
-The installation will create a copy of your Skyrim Special Edition game in Instalation Folder/Game Root. This will then contain all the necessary files such as SKSE, ENB Binaries and mod required dlls such as Engine Fixes. There is no need to copy anything to your Steam version of Skyrim as we will be running SKSE from within this folder to play the game.
+The installation will create a copy of your Skyrim Special Edition game in Installation Folder/Game Root. This will then contain all the necessary files such as SKSE, ENB Binaries and mod required dlls such as Engine Fixes. There is no need to copy anything to your Steam version of Skyrim as we will be running SKSE from within this folder to play the game.
 
 ### ENB
 
 Tinvaak 2 comes with a pre-configured Ominous ENB for Obsidian Weathers included. This has been heavily modified to work with the imagespace that's used in Tinvaak 2 and will look very different to what you may expect.
 
-If you want a different ENB. You can choose from a wide variety of ENBs on the Nexus that support Obsidian Weathers.
+If you want a different ENB, you can choose from a wide variety of ENBs on the Nexus that support Obsidian Weathers.
 - *NOTE: In order for the ENB to sit properly with the lighting mod used, you should look for an ENB that properly supports LUX.*
 
-To replace the ENB installed. Delete the enbcache folder, enbseries folder, enbseries.ini and replace those with the new ENB. You don't have to delete the enblocal.ini as that contains tweaks that don't affect how it looks but rather things like screenshot formats, vsync settings.
+To replace the ENB installed, delete the enbcache folder, enbseries folder, enbseries.ini **from the game root folder** and replace those with the new ENB. You don't have to delete the enblocal.ini as that contains tweaks that don't affect how it looks but rather things like screenshot formats, vsync settings.
 
 ## How to start up Tinvaak
 
