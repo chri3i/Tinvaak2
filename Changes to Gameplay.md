@@ -20,7 +20,7 @@ Various other gameplay mods used include:
 
 5. [Sacrilege](https://www.nexusmods.com/skyrimspecialedition/mods/42408) is a high depth, low complexity vampire mod. It is a cleaned up and slimmed down version of Sacrosanct, offering an in-depth vampire experience without feature bloat. 
 
-6. [Heim - Smithing Tweaks and Lightweight Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/54207)provides an overhaul to smithing with minimal edits to ensure compatibility. You will need to find forging manuals in order to unlock each respective category in the forge menu.
+6. [Heim - Smithing Tweaks and Lightweight Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/54207) provides an overhaul to smithing with minimal edits to ensure compatibility. You will need to find forging manuals in order to unlock each respective category in the forge menu.
 
 7. [Open World Loot](https://www.nexusmods.com/skyrimspecialedition/mods/49681) changes loot and encounter zones to provide an open world and immersive experience, letting the player have a sense of progression as well as obtaining believable and balanced loots throughout your adventure and exploration. 
 
@@ -60,7 +60,7 @@ Tinvaak comes with a wide variety of new quest and encounters. A few are listed 
 
 1. [Skyrim Realistic Conquering](https://www.nexusmods.com/skyrimspecialedition/mods/26396) and [Lawbringer](https://www.nexusmods.com/skyrimspecialedition/mods/29882) allow you to make an impact on Skyrim by clearing locations for factions or guards. Once claimed or cleared, the locations will change accordingly.
 
-2. [HeadHunter](https://www.nexusmods.com/skyrimspecialedition/mods/51847)expands bounty quests for Bandits, Forsworn, Giants and Dragons. Like in the Witcher 3, you can bring "trophies" from your enemy to the Jarl as proof of the bounty or deliver the captured bandits to a guard for justice.
+2. [HeadHunter](https://www.nexusmods.com/skyrimspecialedition/mods/51847) expands bounty quests for Bandits, Forsworn, Giants and Dragons. Like in the Witcher 3, you can bring "trophies" from your enemy to the Jarl as proof of the bounty or deliver the captured bandits to a guard for justice.
 
 3. [The Forgotten City](https://www.nexusmods.com/skyrimspecialedition/mods/1179) is the first mod in history to win a national Writers' Guild award for its script. It is a critically acclaimed expansion mod offering a unique 6 - 8 hour experience: a murder mystery investigation set in an ancient underground city. You'll need to solve it using your wits, and the ability to travel through time... 
 
