@@ -92,6 +92,8 @@ Skyrim can be a lonely place and the battles can be tough. Thankfully, there are
 
 4. [Shirley](https://www.nexusmods.com/skyrimspecialedition/mods/45956) the beloved Skyrim Grandma, finally comes to the game as a follower you can recruit! She'll join you on your adventures, but don't expect her to simply carry your burdens!
 
+5. [Merlin the Corgi](https://www.nexusmods.com/skyrimspecialedition/mods/56433) not enough corgi in your Skyrim? Well then you'll want to take this loveable and magical pup on the road with you! A unique combat oriented corgi follower that will be sure to set your enemies ablaze with glee!
+
 ## Music and Weather
 
 A modlist wouldn't be complete without a few new soundtracks and a weather upgrade. Tinvaak utilises a few mods to help achieve that whilst still keeping the iconic soundtrack that we all know and love.
