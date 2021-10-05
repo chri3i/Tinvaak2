@@ -30,7 +30,7 @@ Wabbajack Modlist Installer by The Animonculory.
         - [Problems with Wabbajack](#problems-with-wabbajack)
   - [Post-Installation](#post-installation)
     - [Game Folder](#game-folder)
-    - [Beth INI](#beth-ini)
+    - [BethINI](#bethini)
     - [ENB](#enb)
   - [How to start up Tinvaak](#how-to-start-up-tinvaak)
   - [Updating](#updating)
