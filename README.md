@@ -258,6 +258,8 @@ I do not use an Ultrawide monitor thus cannot offer support beyond what is below
 
 Horizon UI inlcudes a 21:9 profile which you should activate, alongside the 21x9 loading screens replacer.
 
+Open up BethINI, set up your resolution and enable borderless windowed in the settings, otherwise your game might look slightly offset.
+
 ### Tweaking the Game Settings
 
 I highly recommend using [BethINI](https://www.nexusmods.com/skyrimspecialedition/mods/4875) which is included in this Modlist (can be found in `MO2/tools/BethINI`). I recommend tweaking the `Detail` section for more FPS:
@@ -287,6 +289,7 @@ If you're really struggling with FPS but want the color correction and realism, 
   - ComplexFireLights
   - ComplexParticleLights
   - Reflection
+  - ComplexParticlLights Settings > Disable "Big Range" (This is circumstantial and location dependent, but it can save a lot of FPS in the long run.)
 
 ##### If you cannot handle the ENB: Disable `useEffect` in enbseries.ini
 
