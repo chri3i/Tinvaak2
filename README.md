@@ -187,6 +187,10 @@ Windows 10 has started to auto quarantine the usvfs_proxy_x86.exe file from the 
 ### Game Folder
 The installation will create a copy of your Skyrim Special Edition game in Installation Folder/Game Root. This will then contain all the necessary files such as SKSE, ENB Binaries and mod required dlls such as Engine Fixes. There is no need to copy anything to your Steam version of Skyrim as we will be running SKSE from within this folder to play the game.
 
+### BethINI
+
+Go to your Tinvaak 2 installation folder > Tools > BethINI and run the program, set up your resolution and choose whether you want borderless/windowed or fullscreen. Hit save and exit. You're done this part! IF you do not do this step, you may wind up running at an upscaled 1440p if you don't have a 1440p monitor. This could potentially save you some performance hit.
+
 ### ENB
 
 Tinvaak 2 comes with a pre-configured Ominous ENB for Obsidian Weathers included. This has been heavily modified to work with the imagespace that's used in Tinvaak 2 and will look very different to what you may expect.
