@@ -37,6 +37,7 @@ Wabbajack Modlist Installer by The Animonculory.
   - [Changes to Gameplay](#Changes-to-Gameplay) 
   - [In-Game MCM Options](#in-game-mcm-options)
   - [Creating your Character](#creating-your-character)
+  	- [Post Creation](#post-creation) 
   - [Other Post Installation FAQ](#other-post-installation-faq)
     - [Ultrawide Options](#ultrawide-options)
     - [Tweaking the Game Settings](#tweaking-the-game-settings)
@@ -233,7 +234,6 @@ Tweak the following to your liking:
 - Lucien (If you set a nickname that's supported he can call you by that name)
 - RASS
 - Storm Lightning (I recommend the ultra-realistic preset)
-- Lock Overhaul (**Do not enable the spell unlock**)
 
 For Widescreen users: 
 - Extended UI: Aspect Ratio
@@ -244,6 +244,9 @@ Configure this MCM last. Select your loadout, dragons, and dragonborn status. **
 ## Creating your Character
 
 Once you have finished the MCM setup, create your character in race menu. There are some Racemenu presets included with the list for you to use if you wish to.
+
+### Post Creation
+After you have named your character select **stay here** in the options. Failure to select this will result in certain post creation scripts not firing correctly and **may break your save**. Wait until the prompt to `assign your attributes` comes up and assign your attributes. You can then use the `Medical History` book to assign mnore data to your character should you wish to. Once you have compelted all this, press the enter key and select `Continue`. 
 
 ### Sunhelm (Do This after character creation and you have spawned into the world.)
 - General Settings
@@ -315,15 +318,17 @@ You can just delete the MO2 folder and be done with it.
 ## Credits and Thanks
 
 - _YOU_ for actually reading the readme. Thanks a ton!!
-- TheSpaniard, Chef & Annakins for assisting in the development and creation of Tinvaak 2.
+- Chef for helping with the patching, NPC merge, CK work, UI and many other things. You're awesome.
+- TheSpaniard for helping with testing, development and helping flesh out the ideas of the list. Like Chef, you're awesome.
+- Annakins for testing, the trailer and the new logo. You're a great person.
+- The rest of the Animonculory dev team for assisting with testing and development. Y'all are awesome and make this process much more fun.
 - Galaxy Synth for help in the creation, configuration and setup of Tinvaak 1.
 - Noggog for Mutagen.
 - Special thanks to the Synthesis patcher devs.
 - erri120 & jdsmith2816 - Repository template.
-- iXanza, JanuarySnow and Nem for recompiled MCM scripts for automation.
+- iXanza, JanuarySnow and OsmosisWrench for recompiled MCM scripts for automation.
 - Shuckleberry for Skyrim Unbound Presets.
 - Halgari and everyone the WJ Team - Wabbajack is awesome and so are you.
-- Chef for Ultrawide installation instructions.
 - My amazing Patreons.
 
 ## Contact
