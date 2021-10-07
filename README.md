@@ -235,6 +235,8 @@ Tweak the following to your liking:
 - RASS
 - Storm Lightning (I recommend the ultra-realistic preset)
 
+**DO NOT TOUCH THE DEFLECTION MCM. YOU WILL BREAK MANY THINGS.**
+
 For Widescreen users: 
 - Extended UI: Aspect Ratio
 
@@ -255,6 +257,10 @@ After you have named your character select **stay here** in the options. Failure
 		- Toggle Carry Weight Penalty [unchecked]
 
 ## Other Post Installation FAQ
+
+### BA Alchemist Arsenal/ "My bombs are doing no damage!"
+
+This is because you either are not level 5 or have not opened the crafting kit. If you used the console to add bombs to your inventory, they will not work. This is not a bug - This is an intended mechanic of the mod.
 
 ### Controller Setup
 
