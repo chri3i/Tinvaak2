@@ -246,9 +246,9 @@ Configure this MCM last. Select your loadout, dragons, and dragonborn status. **
 Once you have finished the MCM setup, create your character in race menu. There are some Racemenu presets included with the list for you to use if you wish to.
 
 ### Post Creation
-After you have named your character select **stay here** in the options. Failure to select this will result in certain post creation scripts not firing correctly and **may break your save**. Wait until the prompt to `assign your attributes` comes up and assign your attributes. You can then use the `Medical History` book to assign mnore data to your character should you wish to. Once you have compelted all this, press the enter key and select `Continue`. 
+After you have named your character select **stay here** in the options. Failure to select this will result in certain post creation scripts not firing correctly and **may break your save**. Wait until the prompt to `assign your attributes` comes up and assign your attributes. You can then use the `Medical History` book to assign more data to your character should you wish to. Once you have completed all this, press the enter key and select `Continue`. 
 
-### Sunhelm (Do This after character creation and you have spawned into the world.)
+### Sunhelm (Do This after character creation and having spawned into the world.)
 - General Settings
 	- Gameplay Options
 		- Toggle Raw Meat Damage [unchecked]
