@@ -297,7 +297,7 @@ If you're really struggling with FPS but want the color correction and realism, 
   - ComplexFireLights
   - ComplexParticleLights
   - Reflection
-  - ComplexParticlLights Settings > Disable "Big Range" (This is circumstantial and location dependent, but it can save a lot of FPS in the long run.)
+  - ComplexParticleLights Settings > Disable "Big Range" (This is circumstantial and location dependent, but it can save a lot of FPS in the long run.)
 
 ##### If you cannot handle the ENB: Disable `useEffect` in enbseries.ini
 
