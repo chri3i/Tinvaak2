@@ -119,3 +119,5 @@ Tinvaak comes with multiple survival and immersion mods which form part of the c
 4. [Potion Toxicity](https://www.nexusmods.com/skyrimspecialedition/mods/32576) makes it so that if you abuse potions your character will become addicted. Think twice before you start chugging potions of health, they may do you more harm than good.
 
 5. [L.V.X Magicks - Campfire Unleashed](https://www.nexusmods.com/skyrimspecialedition/mods/11001), [Dylbill's Positioner](https://www.nexusmods.com/skyrimspecialedition/mods/33917) and [Decorator Helper](https://www.nexusmods.com/skyrimspecialedition/mods/11708) provide the framework for settlement creation. Setup your own headquarters anywhere or add the extension you always wanted to your hearthfire house.
+
+(**IMPORTANT:** If you plan on spawning large structures or any large meshes in the exterior cells, once you have spawned them in, be sure to save, exit and then restart the game. Failure to do so could result in a corrupted save file. Interior cell renovations do not seem to cause this at all, so carry on as per usual there.)
