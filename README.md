@@ -228,7 +228,7 @@ Please do not expect the game to be functionally similar to vanilla. There are a
 
 Most of the **Required MCM** setups have been automated and set for you.
 
-**IMPORTANT** Go to Dino's Spell Discovery in your MCM and hit `RUN` on Initialize. Exit out of your MCM and then wait until its finished processing the spell records. Once the message pops up and its done, feel free to tweak the settings to your liking.
+**IMPORTANT:** Go to Dino's Spell Discovery in your MCM and hit `RUN` on Initialize. Exit out of your MCM and then wait until its finished processing the spell records. Once the message pops up and its done, feel free to tweak the settings to your liking.
 
 Tweak the following to your liking:
 
