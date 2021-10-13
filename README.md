@@ -329,7 +329,7 @@ You can just delete the MO2 folder and be done with it.
 - Annakins for testing, the trailer and the new logo. You're a great person.
 - The rest of the Animonculory dev team for assisting with testing and development. Y'all are awesome and make this process much more fun.
 - Galaxy Synth for help in the creation, configuration and setup of Tinvaak 1.
-- Sovn for help on the original build and texture discussion.
+- Sovn for help on the original build, texture discussion, teaching me parts of the CK and upskilling me on certain aspects of modding. Many thanks to you :)
 - Noggog for Mutagen.
 - Special thanks to the Synthesis patcher devs.
 - erri120 & jdsmith2816 - Repository template.
