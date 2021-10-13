@@ -234,6 +234,7 @@ Tweak the following to your liking:
 - Lucien (If you set a nickname that's supported he can call you by that name)
 - RASS
 - Storm Lightning (I recommend the ultra-realistic preset)
+- SV Mods Menu (Particularly the Spells Cost Stamina and Spell Learning Requirements sections)
 
 **DO NOT TOUCH THE DEFLECTION MCM. YOU WILL BREAK MANY THINGS.**
 
