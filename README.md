@@ -53,7 +53,7 @@ Wabbajack Modlist Installer by Althro & The Animonculory.
 
 Tinvaak is a list focused on revitalising and reworking SkyrimSE into an actual roleplaying game. Featuring a wide range of new mechanics including a fully reworked combat system courtesy of Engarde and SkySA, Settlement building, Reworked Alchemy, quests such as Wyrmstooth and the VenjHammet Suite, Survival mods, optional Khajiit Speak, and many other elements.
 
-In version 2.0, Tinvakk has been completely rebuilt and reworked to provide excellent performance, stability, and overall gameplay experience. Get ready to improvise, adapt, and survive your way through a revitalised worldspace!
+In version 2.0, Tinvaak has been completely rebuilt and reworked to provide excellent performance, stability, and overall gameplay experience. Get ready to improvise, adapt, and survive your way through a revitalised worldspace!
 
 This work is licensed under a
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
