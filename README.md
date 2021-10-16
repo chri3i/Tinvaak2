@@ -51,42 +51,42 @@ Wabbajack Modlist Installer by Althro & The Animonculory.
 
 ## Preamble
 
-Tinvaak is a list focused on revitalising and reworking SkyrimSE into an actual roleplaying game. Featuring a wide range of new mechanics including a fully reworked combat system courtesy of Engarde and SkySA, Settlement building, Reworked Alchemy, quests such as Wyrmstooth and the VenjHammet Suite, Survival mods, optional Khajiit Speak and many other elements.
+Tinvaak is a list focused on revitalising and reworking SkyrimSE into an actual roleplaying game. Featuring a wide range of new mechanics including a fully reworked combat system courtesy of Engarde and SkySA, Settlement building, Reworked Alchemy, quests such as Wyrmstooth and the VenjHammet Suite, Survival mods, optional Khajiit Speak, and many other elements.
 
-Version 2.0 has been completely rebuilt and reworked to provide the optimum performance, stability and experience. Get ready to improvise, adapt and survive your way through a revitalised worldspace.
+In version 2.0, Tinvakk has been completely rebuilt and reworked to provide excellent performance, stability, and overall gameplay experience. Get ready to improvise, adapt, and survive your way through a revitalised worldspace!
 
 This work is licensed under a
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
 
 ## Creation Ethos
 
-The core element of T2 is roleplaying and having a D&D like feel with some witcher elements thrown in for good measure. The essence of the feeling can be described as this: 
+The core element of T2 is roleplaying and having a D&D like feel with some Witcher elements thrown in for good measure. The essence of the feeling can be described as this: 
 
-> "The Dragonborn may very well carry the day, but to this uncaring realm, you are just a mortal. Just another person in the worldspace to see and not necessarily interact with. As you advance, weapons drawn, you hesitate, unsure if you can really do this. That tiny bit of uncertainty, that small voice of doubt. It's amplified and ever present."
+> "The Dragonborn may very well carry the day, but to this uncaring realm, you are just a mortal. Just another person in the worldspace to see and not necessarily interact with. As you advance, weapons drawn, you hesitate, unsure if you can really do this. That tiny bit of uncertainty, that small voice of doubt: It's amplified and ever present."
 
 Do not expect vanilla gameplay. Many aspects have been changed from the original game. This list is **not recommended** if this is your first time playing Skyrim.
 
-**Please read the ReadMe in Full. The installation process is not completed once you have finished the Wabbajack installation.**
+**Please read the ReadMe in full. The installation process is NOT completed after you finished the Wabbajack installation.**
 
 ## System Requirements
 
-2.0 of Tinvaak has been tested on a variety of machines to help better understand the system requirements of the list. It is aimed at higher tier machines in terms of system requirements. 
+Tinvaak 2.0 has been tested on a variety of machines to help better understand the system requirements of the list. It is aimed at higher tier machines in terms of system requirements. 
 
- - *NOTE: T2 is **very** graphically demanding so it is highly recommended to be installed on a SSD and that you have at least 16GB of RAM. It may be possible to run on lower spec systems, however these specs are the recommended ones.*
+ - *NOTE: T2 is **very** graphically demanding so it is highly recommended to be installed on a SSD and that you have at least 16GB of RAM. It may be possible to run on lower spec systems; however, the specs listed below are the recommended ones.*
 
 Recommended Specs for 1080p:
 
 - 2nd Gen Ryzen (2800x) / 7th Gen Intel i5 or better
 - 16GB Ram
 - SSD
-- 6GB GPU such as GTX 1660 Super or RX 5600xt minimum; 8GB GPU such as 5700xt or GTX 1080 recommended.
+- 6GB GPU such as GTX 1660 Super or RX 5600xt minimum; 8GB GPU such as 5700xt or GTX 1070 recommended.
 
 Recommended Specs for 1440p:
 
 - 3rd Gen Ryzen (3600) / 9th Gen Intel i5 or better
 - 32GB Ram
 - NVME SSD
-- 8GB GPU such as RTX 2080 or RX 6700XT minimum; 10GB+ GPU such as RTX 3080TI or RX 6800 recommended.
+- 8GB GPU such as RTX 2080 or RX 6700XT minimum; 10GB+ GPU such as RTX 3080 or RX 6800 XT recommended.
 
 I run the list at an average of locked 60fps with a few dips here and there at 1440p on the following specs:
 
@@ -128,7 +128,7 @@ Open the Properties window (right click the game in your Library->Properties), n
 
 SSE is still being updated by Bethesda (they only add Creation Club content). Whenever the game updates, the entire modding community goes silent for the next one or two weeks because some mods need to be updated to the latest game runtime version.
 
-To ensure that Steam does not automatically updates the game for you, head over to the Properties window, navigate to the _Updates_ tab and change _Automatic updates_ to _Only update this game when I launch it_. You should also disable the Steam Cloud while you're at it.
+To ensure that Steam does not automatically update the game for you, head over to the Properties window, navigate to the _Updates_ tab and change _Automatic updates_ to _Only update this game when I launch it_. You should also disable the Steam Cloud while you're at it.
 
 #### Set the Game language and Windows Region to English
 
@@ -138,20 +138,20 @@ Open the Steam Properties window, navigate to the _Language_ tab and select _Eng
 
 #### Clean Skyrim
 
-Due to the way Tinvaak 2 is setup, I highly recommend uninstalling the game through Steam, deleting the game folder and reinstalling it. You should also clean up the `Skyrim Special Edition` folder in `Documents/My Games/` by deleting the contents in it. Alternatively, use the [Shredder](https://www.nexusmods.com/skyrimspecialedition/mods/30133) to complelety wipe the game.
+Due to the way Tinvaak 2 is set up, I highly recommend uninstalling the game through Steam, deleting the game folder and reinstalling it. You should also clean up the `Skyrim Special Edition` folder in `/Documents/My Games/` by deleting everything inside. Alternatively, use the [Shredder](https://www.nexusmods.com/skyrimspecialedition/mods/30133) to complelety wipe the game.
 
-### It is *vital* that your Binkw64.dll is unmodified and *not* a replacement from another mod. If you have a version that is not 292KB in size, delete it and verify your game files.
+### It is *vital* that your binkw64.dll is unmodified and *not* a replacement from another mod. If you have a version that is not 292KB in size, delete it and verify your game files.
 
 #### Start Skyrim
 
-After you have done everything above and got a clean SSE installation ready, start the Launcher and and let it do the initial graphics check. Do not worry about this part as the installation will replace this graphics settings.
+After you have done everything above and got a clean SSE installation ready, run the Skyrim through Steam, and and let it do the initial graphics check in the launcher. Do not worry about this part as the installation will replace this graphics settings.
 Start the game and exit once you're in the main menu.
 
 ### Using Wabbajack
 
 #### Preparations
 
-Grab the latest release of Wabbajack from [here](https://github.com/wabbajack-tools/wabbajack/releases) and place the `Wabbajack.exe` file in a _working folder_. This folder **must not** be in a _common folders_ like your Desktop, Downloads, OneDrive or Program Files folder. It's best to create a Wabbajack folder near the root level of your drive like `C:/Wabbajack`.
+Grab the latest release of Wabbajack from [here](https://github.com/wabbajack-tools/wabbajack/releases) and place the `Wabbajack.exe` file in a _working folder_. This folder **must not** be in a _common folder_ like your Desktop, Downloads, OneDrive, or Program Files folders. It's best to create a Wabbajack folder near the root level of your drive like `C:/Wabbajack`.
 
 #### Downloading and Installing
 
@@ -160,8 +160,8 @@ The download and installation process can take a very long time depending on you
 1. Open Wabbajack and click on browse modlists.
 2. Download the modlist from the Wabbajack UI.
 3. Once the download is done, set the installation folder to somewhere that is not affected by UAC (Please do not put it in Documents, Program Files, Desktop. Put it somewhere easy like `C:/Modlists/Tinvaak`). The downloads path should automatically fill in the installation path.
-4. Click the Go/Begin button
-5. Wait for Wabbajack to finish
+4. Click the Go/Begin button.
+5. Wait for Wabbajack to finish.
 6. If you run into any issues see the next section. If the installation is successful, proceed to [Post-Installation](#post-installation).
 
 ##### Problems with Wabbajack
@@ -187,7 +187,8 @@ Windows 10 has started to auto quarantine the usvfs_proxy_x86.exe file from the 
 ## Post-Installation
 
 ### Game Folder
-The installation will create a copy of your Skyrim Special Edition game in Installation Folder/Game Root. This will then contain all the necessary files such as SKSE, ENB Binaries and mod required dlls such as Engine Fixes. There is no need to copy anything to your Steam version of Skyrim as we will be running SKSE from within this folder to play the game.
+
+The installation will create a copy of your Skyrim Special Edition game in /Installation Folder/Game Root/. This will then contain all the necessary files such as SKSE, ENB Binaries, and mod required DLLs such as Engine Fixes. There is no need to copy anything to your Steam-installed version of Skyrim SE as we will be running SKSE from within this folder to play the game.
 
 ### BethINI
 
@@ -198,13 +199,13 @@ Go to your Tinvaak 2 installation folder > Tools > BethINI and run the program, 
 Tinvaak 2 comes with a pre-configured Ominous ENB for Obsidian Weathers included. This has been heavily modified to work with the imagespace that's used in Tinvaak 2 and will look very different to what you may expect.
 
 If you want a different ENB, you can choose from a wide variety of ENBs on the Nexus that support Obsidian Weathers.
-- *NOTE: In order for the ENB to sit properly with the lighting mod used, you should look for an ENB that properly supports LUX.*
+- *NOTE: For best results in interiors, look for a preset that supports Tinvaak's lighting mod LUX.*
 
-To replace the ENB installed, delete the enbcache folder, enbseries folder, enbseries.ini **from the game root folder** and replace those with the new ENB. You don't have to delete the enblocal.ini as that contains tweaks that don't affect how it looks but rather things like screenshot formats, vsync settings.
+To replace the ENB installed, delete the enbcache folder, enbseries folder, enbseries.ini **from the game root folder** (/Installation Folder/Game Root/) and replace those with the new ENB. You don't have to delete the enblocal.ini as that contains tweaks that don't affect how it looks but rather things like screenshot formats, VSYNC settings.
 
 ## How to start up Tinvaak
 
-Head over to the installation folder and locate an executable named `ModOrganizer.exe` and launch it. Once it's launched, there will be a dropdown box on the top right and a big run button next to it. Ensure it is set to 'Play Tinvaak' by selecting it in the dropdown box and then hitting the run button. 
+Head over to the installation folder and locate an executable named `ModOrganizer.exe` and launch it. Once it's launched, there will be a dropdown box on the top right and a big run button next to it. Ensure it is set to 'Play Tinvaak' by selecting it from the dropdown box, then hit the Run button to launch the game. 
 
 There are two profiles for Tinvaak, one for regular dialogue, and one for Khajiit Speak dialogue.
 
@@ -226,7 +227,7 @@ Please do not expect the game to be functionally similar to vanilla. There are a
 
 ## In-Game MCM Options
 
-Most of the **Required MCM** setups have been automated and set for you.
+Most of the Mod Configuration Menus (MCMs) are **automatically** configured for you.
 
 **IMPORTANT:** Go to Dino's Spell Discovery in your MCM and hit `RUN` on Initialize. Exit out of your MCM and then wait until its finished processing the spell records. Once the message pops up and its done, feel free to tweak the settings to your liking.
 
@@ -244,16 +245,19 @@ For Widescreen users:
 - Extended UI: Aspect Ratio
 
 ### Skyrim Unbound
-Configure this MCM last. Select your loadout, dragons, and dragonborn status. **Note**: If you want to be dragonborn, you have to set your dragonborn status to be dragonborn and not random. There are some pre-made presets that you can use if you are struggling to think of what to play. When you're ready to create your character, select `Let's go!`
+
+Configure this MCM last. Select your loadout, dragons, and Dragonborn status. **Note**: If you want to be Dragonborn, you have to set your Dragonborn status to be Dragonborn and not random. There are some pre-made presets that you can use if you are struggling to think of what to play. When you're ready to create your character, select `Let's go!`
 
 ## Creating your Character
 
 Once you have finished the MCM setup, create your character in race menu. There are some Racemenu presets included with the list for you to use if you wish to.
 
 ### Post Creation
+
 After you have named your character select **stay here** in the options. Failure to select this will result in certain post creation scripts not firing correctly and **may break your save**. Wait until the prompt to `assign your attributes` comes up and assign your attributes. You can then use the `Medical History` book to assign more data to your character should you wish to. Once you have completed all this, press the enter key and select `Continue`. 
 
-### Sunhelm (Do This after character creation and having spawned into the world.)
+### Sunhelm (Do this after finishing character creation and spawning into the world.)
+
 - General Settings
 	- Gameplay Options
 		- Toggle Raw Meat Damage [unchecked]
@@ -261,17 +265,17 @@ After you have named your character select **stay here** in the options. Failure
 
 ## Other Post Installation FAQ
 
-### BA Alchemist Arsenal/ "My bombs are doing no damage!"
+### BA Alchemist Arsenal / "My bombs are doing no damage!"
 
-This is because you either are not level 5 or have not opened the crafting kit. If you used the console to add bombs to your inventory, they will not work. This is not a bug - This is an intended mechanic of the mod.
+This is because you either are not level 5 or have not opened the crafting kit. If you used the console to add bombs to your inventory, they will not work. This is not a bug, it's an intended mechanic of the mod.
 
 ### Controller Setup
 
-Please follow this [excellent guide by ShadesOfDawn and Chri3i](https://github.com/chri3i/Gamepad-Guide-by-ShadesOfDawn-and-me) for setting up a controller with Tinvaak. Antimicro is included with the list to allow for Engarde compatability.
+Please follow this [excellent guide by ShadesOfDawn and Chri3i](https://github.com/chri3i/Gamepad-Guide-by-ShadesOfDawn-and-me) for setting up a controller with Tinvaak. Antimicro is included with the list to allow for Engarde compatibility.
 
 ### Ultrawide Options
 
-I do not use an Ultrawide monitor thus cannot offer support beyond what is below.
+I do not use an Ultrawide monitor so I cannot offer support beyond what is below.
 
 Horizon UI inlcudes a 21:9 profile which you should activate, alongside the 21x9 loading screens replacer.
 
@@ -294,11 +298,11 @@ To remove the letterbox effect:
 - In the right tab called Shader parameters, there is a section called `ENBPOSTPASS.FX`. Select it to open it.
 - Scroll down to letterbox and disable it.
 - Press the save configuration button.
-- You have now disabled letterbox and can press [shift+enter] to return to game.
+- You have now disabled letterbox and can press [Shift+Enter] to return to game.
 
 Open the console with `~` before doing edits, so you're not randomly swinging weapons around while editing the ENB.
 
-If you're really struggling with FPS but want the color correction and realism, disable the following in the ENB GUI [shift+enter]:
+If you're really struggling with FPS but want the color correction and realism, disable the following in the ENB GUI [Shift+Enter]:
 
 ##### enbseries.ini
  
@@ -306,17 +310,17 @@ If you're really struggling with FPS but want the color correction and realism, 
   - ComplexFireLights
   - ComplexParticleLights
   - Reflection
-  - ComplexParticleLights Settings > Disable "Big Range" (This is circumstantial and location dependent, but it can save a lot of FPS in the long run.)
+  - ComplexParticleLights Settings > Disable "Big Range" (This is circumstantial and location dependent, but it can save a lot of FPS in some places.)
 
-##### If you cannot handle the ENB: Disable `useEffect` in enbseries.ini
+##### If you cannot handle the ENB: Uncheck `useEffect` in enbseries.ini
 
 ### Zoomed in Display
 
-This can be caused by Window's Display Scaling feature. This usually is set to above 100% when using very large (32 inch++) sized monitors and TVs. There are two solutions to this
+This can be caused by Window's Display Scaling feature. This usually is set to above 100% when using very large (32 inch++) sized monitors and TVs. There are two solutions to this:
 
-- Set the display scaling back to 100% in the Screen Resolution Settings for Windows
-- Edit the mod SSE Display Tweaks.
-  - Under `[Render]`
+- Set the display scaling back to 100% in the Screen Resolution Settings for Windows.
+- Or edit the mod SSE Display Tweaks.
+  - Under `[Render]`:
     - Set Fullscreen to `True`
     - Set Borderless to `False`
     
@@ -327,12 +331,12 @@ You can just delete the MO2 folder and be done with it.
 ## Credits and Thanks
 
 - _YOU_ for actually reading the readme. Thanks a ton!!
-- Chef for helping with the patching, NPC merge, CK work, UI and many other things. You're awesome.
-- TheSpaniard for helping with testing, development and helping flesh out the ideas of the list. Like Chef, you're awesome.
-- Annakins for testing, the trailer and the new logo. You're a great person.
+- Chef for helping with the patching, NPC merge, CK work, UI, and many other things. You're awesome.
+- TheSpaniard for helping with testing, development, and helping flesh out the ideas of the list. Like Chef, you're awesome.
+- Annakins for testing, the trailer, and the new logo. You're a great person.
 - The rest of the Animonculory dev team for assisting with testing and development. Y'all are awesome and make this process much more fun.
-- Galaxy Synth for help in the creation, configuration and setup of Tinvaak 1.
-- Sovn for help on the original build, texture discussion, teaching me parts of the CK and upskilling me on certain aspects of modding. Many thanks to you :)
+- Galaxy Synth for help in the creation, configuration, and setup of Tinvaak 1.
+- Sovn for help on the original build, texture discussion, teaching me parts of the CK, and upskilling me on certain aspects of modding. Many thanks to you :)
 - Noggog for Mutagen.
 - Special thanks to the Synthesis patcher devs.
 - erri120 & jdsmith2816 - Repository template.
