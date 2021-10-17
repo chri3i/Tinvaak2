@@ -227,16 +227,10 @@ Please do not expect the game to be functionally similar to vanilla. There are a
 
 ## In-Game MCM Options
 
-Most of the Mod Configuration Menus (MCMs) are **automatically** configured for you.
-
-**IMPORTANT:** Go to Dino's Spell Discovery in your MCM and hit `RUN` on Initialize. Exit out of your MCM and then wait until its finished processing the spell records. Once the message pops up and its done, feel free to tweak the settings to your liking.
-
-Tweak the following to your liking:
+All of the important Mod Configuration Menus (MCMs) are **automatically** configured for you. Once all of the messages in the top right have dissappeared and you have confirmed the Dino's Spell casting pop-up, tweak the following to your liking:
 
 - SkyUI
 - Lucien (If you set a nickname that's supported he can call you by that name)
-- RASS
-- Storm Lightning (I recommend the ultra-realistic preset)
 - SV Mods Menu (Particularly the Spells Cost Stamina and Spell Learning Requirements sections)
 
 **DO NOT TOUCH THE DEFLECTION MCM. YOU WILL BREAK MANY THINGS.**
