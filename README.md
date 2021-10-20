@@ -51,20 +51,20 @@ Wabbajack Modlist Installer by Althro & The Animonculory.
 
 ## Preamble
 
-Tinvaak is a list focused on revitalising and reworking SkyrimSE into an actual roleplaying game. Featuring a wide range of new mechanics including a fully reworked combat system courtesy of Engarde and SkySA, Settlement building, Reworked Alchemy, quests such as Wyrmstooth and the VenjHammet Suite, Survival mods, optional Khajiit Speak, and many other elements.
+Tinvaak is a list focused on revitalising and reworking Skyrim: Special Edition (SSE) into an actual roleplaying game. Featuring a wide range of new mechanics including a fully reworked combat system courtesy of Engarde and SkySA, Settlement building, Reworked Alchemy, quests such as Wyrmstooth and the VenjHammet Suite, Survival mods, optional Khajiit Speak, and many other elements.
 
-In version 2.0, Tinvaak has been completely rebuilt and reworked to provide excellent performance, stability, and overall gameplay experience. Get ready to improvise, adapt, and survive your way through a revitalised worldspace!
+In version 2.0, Tinvaak has been completely rebuilt and reworked to provide excellent performance, stability, and an overall improved gameplay experience. Get ready to improvise, adapt, and survive your way through a revitalised worldspace!
 
 This work is licensed under a
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
 
 ## Creation Ethos
 
-The core element of T2 is roleplaying and having a D&D like feel with some Witcher elements thrown in for good measure. The essence of the feeling can be described as this: 
+The core element of T2 is roleplaying and having a Dungeons and Dragons-like feel with some Witcher elements thrown in for good measure. The essence of this feeling can be described as this: 
 
-> "The Dragonborn may very well carry the day, but to this uncaring realm, you are just a mortal. Just another person in the worldspace to see and not necessarily interact with. As you advance, weapons drawn, you hesitate, unsure if you can really do this. That tiny bit of uncertainty, that small voice of doubt: It's amplified and ever present."
+> "The Dragonborn may very well save the day, but to this uncaring realm, you are just a mortal. You are yet another unimportant person in the world, something that passersby see and rarely interact with. As you advance, weapons drawn, you hesitate, unsure if you can really do this. That tiny bit of uncertainty, that small voice of doubt: It's amplified and ever-present."
 
-Do not expect vanilla gameplay. Many aspects have been changed from the original game. This list is **not recommended** if this is your first time playing Skyrim.
+Do not expect vanilla gameplay. The video game has been modified. Many aspects have been changed from the original game. This list is **not recommended** if this is your first time playing Skyrim.
 
 **Please read the ReadMe in full. The installation process is NOT completed after you finished the Wabbajack installation.**
 
@@ -114,7 +114,7 @@ These steps are only needed if you install this Modlist for the first time. If y
 
 #### Installing Microsoft Visual C++ Redistributable Package
 
-I doubt you need to do this since you likely already have this installed. The package is required for MO2 and you can download it from [Microsoft](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads). Download the x64 version under "Visual Studio 2015, 2017 and 2019". [Direct link](https://aka.ms/vs/16/release/vc_redist.x64.exe) if you can't find it.
+I doubt you need to do this since you likely already have this installed. The package is required for Mod Organizer 2, and you can download it from [Microsoft](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads). Download the x64 version under "Visual Studio 2015, 2017 and 2019". [Direct link](https://aka.ms/vs/16/release/vc_redist.x64.exe) if you can't find it.
 
 #### Steam Config
 
@@ -144,7 +144,7 @@ Due to the way Tinvaak 2 is set up, I highly recommend uninstalling the game thr
 
 #### Start Skyrim
 
-After you have done everything above and got a clean SSE installation ready, run the Skyrim through Steam, and and let it do the initial graphics check in the launcher. Do not worry about this part as the installation will replace this graphics settings.
+After you have done everything above and got a clean SSE installation ready, run Skyrim: Special Edition through Steam, and and let it do the initial graphics check in the launcher. Do not worry about this part as the installation will replace this graphics settings.
 Start the game and exit once you're in the main menu.
 
 ### Using Wabbajack
@@ -170,7 +170,7 @@ There are a lot of different scenarios where Wabbajack will produce an error. I 
 
 **Could not download x**:
 
-If a mod updated and the old files got deleted, it is impossible to download them. In this case just wait until I update the Modlist.
+If a mod updated and the old files got deleted, it is impossible to download them. In this case just wait until I update the modlist. However, occasionally Wabbajack will fail on a download if your connection or Nexus's servers have issues, so I recommend running Wabbajack once more to ensure that it was not a fluke.
 
 **x is not a whitelisted download**:
 
@@ -182,7 +182,7 @@ Wabbajack will not work with a pirated version of the game. If you own the game 
 
 **Windows is reporting that a virus has been detected**:
 
-Windows 10 has started to auto quarantine the usvfs_proxy_x86.exe file from the latest version of Mod Organizer 2 saying a threat was detected. This is a known false postive confirmed by the MO2 Devs. You can fix this by adding an exemption for MO2 Folder to your Antivirus. An example for windows defender can be found [here](https://www.thewindowsclub.com/exclude-a-folder-from-windows-security-scan).
+Windows 10 has started to automatically quarantine the usvfs_proxy_x86.exe file from the latest version of Mod Organizer 2, saying a threat was detected. This is a known false postive confirmed by the MO2 Devs. You can fix this by adding an exemption for MO2 Folder to your Antivirus. An example for windows defender can be found [here](https://www.thewindowsclub.com/exclude-a-folder-from-windows-security-scan).
 
 ## Post-Installation
 
@@ -196,12 +196,12 @@ Go to your Tinvaak 2 installation folder > Tools > BethINI and run the program, 
 
 ### ENB
 
-Tinvaak 2 comes with a pre-configured Ominous ENB for Obsidian Weathers included. This has been heavily modified to work with the imagespace that's used in Tinvaak 2 and will look very different to what you may expect.
+Tinvaak 2 comes with a pre-configured Ominous ENB for Obsidian Weathers included. This has been heavily modified to work with the imagespace that are used in Tinvaak 2 and will look very different to what you may expect.
 
 If you want a different ENB, you can choose from a wide variety of ENBs on the Nexus that support Obsidian Weathers.
 - *NOTE: For best results in interiors, look for a preset that supports Tinvaak's lighting mod LUX.*
 
-To replace the ENB installed, delete the enbcache folder, enbseries folder, enbseries.ini **from the game root folder** (/Installation Folder/Game Root/) and replace those with the new ENB. You don't have to delete the enblocal.ini as that contains tweaks that don't affect how it looks but rather things like screenshot formats, VSYNC settings.
+To replace the ENB installed, delete the enbcache folder, enbseries folder, enbseries.ini **from the game root folder** (/Installation Folder/Game Root/) and replace those with the new ENB. You don't have to delete the enblocal.ini as that contains tweaks that don't affect how it looks but rather things like screenshot formats, VSYNC settings, etc.
 
 ## How to start up Tinvaak
 
@@ -211,11 +211,11 @@ There are two profiles for Tinvaak, one for regular dialogue, and one for Khajii
 
 ## Updating
 
-If this Modlist receives an update, please check the Changelog before doing anything. Always back up your saves or start a new game after updating.
+If this modlist receives an update, please check the Changelog before doing anything. Always back up your saves or start a new game after updating.
 
 **Wabbajack will delete all files that are not part of the Modlist when updating!**
 
-This means that any additional mods you have installed on top of the Modlist will be deleted. Your downloads folder will not be touched!
+This means that any additional mods you have installed on top of the modlist will be deleted. Your downloads folder will not be touched!
 
 Updating is like installing. You only have to make sure that you select the same path and tick the _overwrite existing Modlist_ button.
 
