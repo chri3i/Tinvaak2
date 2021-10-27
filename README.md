@@ -55,6 +55,8 @@ Tinvaak is a list focused on revitalising and reworking Skyrim: Special Edition 
 
 In version 2.0, Tinvaak has been completely rebuilt and reworked to provide excellent performance, stability, and an overall improved gameplay experience. Get ready to improvise, adapt, and survive your way through a revitalised worldspace!
 
+DroppedIceCream has created a showcase of the list which you can view [here](https://www.youtube.com/watch?v=4N0cOrv5Crc).
+
 This work is licensed under a
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
 
@@ -221,7 +223,7 @@ Updating is like installing. You only have to make sure that you select the same
 
 ## Changes to Gameplay
 
-A video showcase on what is in Tinvaak 2 can be viewed in the trailer `coming soon`
+A video showcase on what is in Tinvaak 2 can be viewed in the trailer `coming soon` & [DroppedIceCreams showcase](https://www.youtube.com/watch?v=4N0cOrv5Crc).
 
 Please do not expect the game to be functionally similar to vanilla. There are a lot of mods installed that modify core base game functionality as well as adding on new mechanics. Please see the [Changes to Gameplay](https://github.com/Althro/Tinvaak2/blob/main/Changes%20to%20Gameplay.md) article for a non-exhaustive list of changes in Tinvaak.
 
