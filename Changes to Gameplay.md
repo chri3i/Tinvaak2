@@ -44,6 +44,8 @@ Tinvaak comes with a a curated selection of Magic mods to fit a range of differe
 
 5. [Undeath](https://www.nexusmods.com/skyrimspecialedition/mods/6180) gives the player the opportunity to become, through the course of their long and arduous journey of exploration and study, a terrifying and destructive undead Lich. [Classic Lichdom](https://www.nexusmods.com/skyrimspecialedition/mods/40802) and [Prelude to Purgatory](https://www.nexusmods.com/skyrimspecialedition/mods/53143) are also used to both fix and enhance this mechanic to offer a true, 'third' supernatural archetype for characters to play.
 
+6. [Dino's Spell Discovery](https://www.nexusmods.com/skyrimspecialedition/mods/43929?tab=description) magic is no longer instantly learned through spell tomes. In fact, all spell tomes have been removed from leveled lists and vendors. You will embark on a journey of knowledge to discover and unlock your innate arcane talents through methods such as spellcrafting and spell theory, to even reverse-engineering spells or creating a grimoire to store your spells for a later use should you wish to unlearn them. Playing a mage will result in a bit more of a time sink, however the payout will be worthwhile in the end. I implore you all to check out the mod page for a full breakdown of its features, though!
+
 ## Combat Mods
 
 Tinvaak 2 completely reworks combat from the previous version by including a fully updated suite of mechanics and animations.
