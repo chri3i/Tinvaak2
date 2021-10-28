@@ -174,6 +174,8 @@ There are a lot of different scenarios where Wabbajack will produce an error. I 
 
 If a mod updated and the old files got deleted, it is impossible to download them. In this case just wait until I update the modlist. However, occasionally Wabbajack will fail on a download if your connection or Nexus's servers have issues, so I recommend running Wabbajack once more to ensure that it was not a fluke.
 
+One file may continually fail which can be downloaded on this link: https://mega.nz/file/xUc0zRLY#NYwbmmHOZhpSF2hpV7hMRYejgZsL_MAIVv_DfjK9JRM 
+
 **x is not a whitelisted download**:
 
 This can happen when I update the modlist. Check if a new update is available and wait if there is none.
