@@ -114,9 +114,11 @@ Space required: Approx 250GB
 
 These steps are only needed if you install this Modlist for the first time. If you update the Modlist, jump straight to [Updating](#updating).
 
-#### Installing Microsoft Visual C++ Redistributable Package
+#### Installing Microsoft Visual C++ Redistributable Package and .NetRuntime
 
 I doubt you need to do this since you likely already have this installed. The package is required for Mod Organizer 2, and you can download it from [Microsoft](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads). Download the x64 version under "Visual Studio 2015, 2017 and 2019". [Direct link](https://aka.ms/vs/16/release/vc_redist.x64.exe) if you can't find it.
+
+Please also make sure to install Microsoft .Net Runtime. The latest version can be found [here](https://dotnet.microsoft.com/download/dotnet/5.0/runtime)
 
 #### Steam Config
 
