@@ -94,9 +94,9 @@ I run the list at an average of locked 60fps with a few dips here and there at 1
 
 - Ryzen 7 5800X
 - 32GB 3600mhz Ram
-- PCIe Based NVME SSD
-- XFX RX 6800 16GB
-- Windows 11 Dev Branch
+- PCIe Gen 4 Based NVME SSD
+- XFX RX 6800 Merc 16GB
+- Windows 11
 
 One of the Dev Team runs the list at an average of locked 60 fps on the following specs:
 
