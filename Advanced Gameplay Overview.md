@@ -38,19 +38,21 @@ Far to the west of the Whiterun tundra over which Dragonsreach looms is a solita
 
 A Mysterious Skull has made it into the hands of travelers coming to Skyrim alongside a strange book and none of them remember ever picking up either of them. Rumour has it that under certain circumstances the skull and book will whisper, providing forbidden knowledge in exchange for blood and souls. How badly do you want power and what price will you pay for it?
 
+## Magic & Alchemy
+
 ### [The Dark Arts](https://www.nexusmods.com/skyrimspecialedition/mods/29834)
 
 “You see, herein lies the problem. The Aedra have abandoned us, letting the Daedra have free reign to do whatever they like. They can corrupt, murder and do as they like with even souls and not a single one of you can stop them. If they can do this with free reign, why do we have to stand idly by? Mannimarco had the right idea, he just lacked vision. Death is the perfect weapon to wield against the Aedra themselves and they have one of two options. They can come down here and stop me, in which case I have gotten them to pay attention, or they’re too weak to stop me in which case I’ll just replace them and reshape things so everyone has a fair shot. I don’t need your paltry scrolls and your adorable excuse for an Arcanum. I don’t need any of you and you can get out of my way or your corpses will do my bidding.” – Valgus Vincendus, Oracle of Worms as his banishment from the College of Winterhold was enacted.
 
 De Vermis Mysteriis is a tome that takes many shapes and keeps popping up in the hands of people who are just arrogant enough to think they can master death while having the skill and ambition to do just that. Sometimes the text is unintelligible and the book disappears as quickly as it came at the bottom of a pack through no action of its benefactor’s own. It is the object of many a Witch Hunter’s hunt and the Wardens of Winterhold because firsthand accounts differ, but for those whom the book reveals its secrets to, the dead walk and souls are theirs to command.
 
-[The Badass Alchemist’s Arsenal](https://www.nexusmods.com/skyrimspecialedition/mods/42030)
+### [The Badass Alchemist’s Arsenal](https://www.nexusmods.com/skyrimspecialedition/mods/42030)
 
 “Oh surprised at the line being broken so easily? They don’t call me Siegebreaker for nothing Breton. A pinch of sulphur, some powerful vinegar, a dash of ingenuity and some rags for a wick and I’ll put any Pyromancer to shame. I also do nameday parties if you can cover the cost of my ingredients and a night at the inn. Now stand back, they seem to be recovering and I have a new mixture I want to test, got an arrow I can have? I’ll be fine but your lungs will dissolve like sweetroll frosting on a hot day if you get anywhere near this.” – Upon Further Reflection, Argonian Siege Alchemist, wanted for crimes against the Empire and violation of the White Gold Concordat and the murder of Thalmor officials as they were performing their duties
 
 Certain Alchemists have honed their craft in such a fashion that they are an order of magnitude above your standard Apothecary. Through alchemy, ingenuity and just a little madness they can create compounds which can rival even the foolhardiest of mages. Always be leery of opponents carrying several flasks and vials and a smile that screams that they know something you don’t.
 
-[ScrollScribe SE](https://www.nexusmods.com/skyrimspecialedition/mods/32439)
+### [ScrollScribe SE](https://www.nexusmods.com/skyrimspecialedition/mods/32439)
 
 “Wait you mean all that stands between me and summoning things to do my bidding is formatting and syntax? This is leagues more ridiculous than I thought. Bulk quills and vellum please, here’s 1000 septims, I have plans to enact” – Upon Further Reflection, Argonian Siege Alchemist to Urag Gro-Shub before being promptly informed of the rules of the Arcaneum
 
