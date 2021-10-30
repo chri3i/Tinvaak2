@@ -229,7 +229,7 @@ Updating is like installing. You only have to make sure that you select the same
 
 ## Changes to Gameplay
 
-A video showcase on what is in Tinvaak 2 can be viewed in the trailer `coming soon` & [DroppedIceCreams showcase](https://www.youtube.com/watch?v=4N0cOrv5Crc).
+A video showcase on what is in Tinvaak 2 can be viewed in the [trailer](https://youtu.be/8bLSGfok47g) & [DroppedIceCreams showcase](https://www.youtube.com/watch?v=4N0cOrv5Crc).
 
 Please do not expect the game to be functionally similar to vanilla. There are a lot of mods installed that modify core base game functionality as well as adding on new mechanics. Please see the [Changes to Gameplay](https://github.com/Althro/Tinvaak2/blob/main/Changes%20to%20Gameplay.md) article for a non-exhaustive list of changes in Tinvaak.
 
