@@ -12,7 +12,7 @@ Various other gameplay mods used include:
 
 1. [Experience](https://www.nexusmods.com/skyrimspecialedition/mods/17751) drastically changes how pacing in the game is done. Rather than only getting experience on skill level ups, you now gain experience level for completing quests and killing enemies.
 
-2. [Class Overhaul Re Imagined(CORI)](https://www.nexusmods.com/skyrimspecialedition/mods/24808) and [Attribute Value Application(AVA)](https://www.nexusmods.com/skyrimspecialedition/mods/23329) form the core of the roleplaying overhaul mods. Your character will now develop and can specialise in areas right from the start.
+2. [Class Overhaul Re Imagined(CORI)](https://www.nexusmods.com/skyrimspecialedition/mods/51043) and [Attribute Value Application(AVA)](https://www.nexusmods.com/skyrimspecialedition/mods/23329) form the core of the roleplaying overhaul mods. Your character will now develop and can specialise in areas right from the start.
 
 3. [Palladium Racials](https://www.nexusmods.com/skyrimspecialedition/mods/43890) fundamentally changes how races are done with an emphasis of putting both NPCs and the player on a even playing field. Expect a different experience from what you are used with certain races being more skilled than others in certain areas.
 
