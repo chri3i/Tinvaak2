@@ -56,7 +56,7 @@ This work is licensed under a
 Tinvaak is aimed at higher tier machines so a system like the following is advised:
 
 ### 1080p
-- 2nd Gen Ryzen (2800x)/7th Gen Intel i5 CPU 
+- 2nd Gen Ryzen (2800x)/6th Gen Intel i5 CPU 
 - 16GB DDR4 Ram
 - SSD
 - 6GB GPU (1660 super/5600XT); 8GB GPU (1070/5700XT) recommended
@@ -82,6 +82,7 @@ Prior to installing Tinvaak, please complete the following steps.
 3. Fully uninstall Skyrim by deleting the folder and the Skyrim Special edition folder inside /Documents/My Games/.
 4. Reinstall Skyrim into a location that is not Program files. Somewhere like C:\Games is a good location.
 5. Start the game once and let it do the graphics check. Do not worry about the settings as it will be replaced during installation.
+6. Use the [Downgrade Patcher](https://www.nexusmods.com/skyrimspecialedition/mods/57618) to downgrade your Skyrim SE. **TINVAAK DOES NOT WORK WITH ANNIVERSARY EDITION**
 
 ### Wabbajack Installation
 
