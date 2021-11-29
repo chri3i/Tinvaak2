@@ -80,7 +80,7 @@ Prior to installing Tinvaak, please complete the following steps.
 1. Install [Visual C++ x64](https://aka.ms/vs/16/release/vc_redist.x64.exe) & [.Net Runtime v5 desktop x64](https://dotnet.microsoft.com/download/dotnet/5.0/runtime).
 2. Change Skyrim so it does not [automatically update](https://help.steampowered.com/en/faqs/view/71AB-698D-57EB-178C#disable).
 3. Fully uninstall Skyrim by deleting the folder and the Skyrim Special edition folder inside /Documents/My Games/.
-4. Reinstall Skyrim into a location that is not Program files. Somewhere like C:\Games is a good location.
+4. Reinstall Skyrim into a location that is not Program files or your desktop. Somewhere like C:\Games is a good location.
 5. Start the game once and let it do the graphics check. Do not worry about the settings as it will be replaced during installation.
 6. Use the [Downgrade Patcher](https://www.nexusmods.com/skyrimspecialedition/mods/57618) to downgrade your Skyrim SE. **TINVAAK DOES NOT WORK WITH ANNIVERSARY EDITION**
 
@@ -88,7 +88,7 @@ Prior to installing Tinvaak, please complete the following steps.
 
 #### Installing Wabbajack
 
-Once you have completed pre-installation, download the [latest version of Wabbajack]((https://github.com/wabbajack-tools/wabbajack/releases)) and place it in a folder such as `C:\Games\Wabbajack`. Do not place it in program files, on your desktop or in your downloads folder. I recommend placing it on an SSD as it will work quicker on there.
+Once you have completed pre-installation, download the [latest version of Wabbajack]((https://github.com/wabbajack-tools/wabbajack/releases)) and place it in a folder such as `C:\Games\Wabbajack`. **Do not place it in program files, on your desktop or in your downloads folder.** I recommend placing it on an SSD as it will work quicker on there.
 
 #### Downloading and Installing Tinvaak
 
@@ -96,7 +96,7 @@ Downloading and installing Tinvaak can take a while depending on your internet c
 
 1. Open Wabbajack and click on browse modlists.
 2. Press the download button on Tinvaak and wait for it to download.
-3. Set the installation folder to be somewhere like C:\Games\Tinvaak.
+3. Set the installation folder to be somewhere like C:\Games\Tinvaak. **Do not install it to your desktop or downloads folder.**
 4. Press the play button to begin.
 5. Go and pet your nearest fluffy animal whilst Wabbajack does its thing.
 6. If the installation is successful, jump for joy and move onto [post installation](#post-installation). If the installation is unsuccessful, follow what is below.
