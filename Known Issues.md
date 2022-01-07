@@ -10,3 +10,4 @@
 - **Mihail Guar Peddlar overly aggressive and causing CTDs** (fix can be found in the known-bugs-and-fixes channel in the server)
 - **Tempering doesn't need any requirements or materials for some items** (will be addressed in a future update, it's easy to overlook some recipes by the amount of items that are in the list)
 - **Standing Stones in Skyrim Unbound's MCM give the vanilla effect** (Yes the effects are not patched and you get the vanilla effects from that menu. You can still get the modded standing stone effects if you activate the stones in the world but the vanilla ones won't get overwritten by them. You end up with 2 sets of effects)
+-  **Werewolf transformations crash/freeze the game occasionally** (We are looking into it, expect it to be fixed in an future update of the list)
