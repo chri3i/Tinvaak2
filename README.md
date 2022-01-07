@@ -198,6 +198,9 @@ Updating is like installing the list. Simply make sure your paths are the same a
 
 You need to be level 5 and open the crafting kit to use this. For more detail on it, please see the [advanced gameplay guide](https://github.com/Althro/Tinvaak2/blob/main/Advanced%20Gameplay%20Overview.md).
 
+### Spell Learning
+There is a mod managing this whole process, no more eating a spell tome to learn a spell. [Dino' Spell Discovery](https://www.nexusmods.com/skyrimspecialedition/mods/43929) is the mod in question. Read through the mod page to get a better idea of it.
+
 ### Controller Setup
 
 Please follow this [excellent guide by ShadesOfDawn and Chri3i](https://github.com/chri3i/Gamepad-Guide-by-ShadesOfDawn-and-me) for setting up a controller with Tinvaak. Antimicro is included with the list to allow for Engarde compatibility.
