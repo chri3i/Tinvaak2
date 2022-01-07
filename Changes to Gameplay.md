@@ -6,7 +6,7 @@ Almost every aspect of vanilla gameplay in Tinvaak has been changed in some way.
 
 ## Gameplay
 
-Tinvaak uses [Ordii](https://www.nexusmods.com/skyrimspecialedition/mods/55200) as its perk overhaul. This is a slightly tweaked version of Ordinator which allows for skill caps of over 100 and uses Vokrii's skill scaling.
+Tinvaak uses [ReClassified Ordinator](https://www.nexusmods.com/skyrimspecialedition/mods/57527) as its perk overhaul. This is a overhauled version of Ordinator which allows class like specialization.
 
 Various other gameplay mods used include:
 
@@ -24,11 +24,15 @@ Various other gameplay mods used include:
 
 7. [Open World Loot](https://www.nexusmods.com/skyrimspecialedition/mods/49681) changes loot and encounter zones to provide an open world and immersive experience, letting the player have a sense of progression as well as obtaining believable and balanced loots throughout your adventure and exploration. 
 
-8. [Khajiit Speak](https://www.nexusmods.com/skyrimspecialedition/mods/37197) is used in the Tinvaak Khajiit Speak Profile, along with many patches, as well as custom patches specific to Tinvaak.
+8. [Khajiit Speak](https://www.nexusmods.com/skyrimspecialedition/mods/37197) is used in the Profile **TinKhat**, along with many patches, as well as custom patches specific to Tinvaak.
 
 9. [Dragon War](https://www.nexusmods.com/skyrimspecialedition/mods/51310) changes dragons so that they feel like a true boss fight, with a range of new attacks and abilities. Expect dragons to offer a true battle to remember.
 
 10. [Apothecary](https://www.nexusmods.com/skyrimspecialedition/mods/52130) is a complete overhaul of Skyrim’s alchemy, food, and alcohol systems designed to balance existing options while adding powerful new effects to the game. This is coupled with [BA Alchemist Arsenal](https://www.nexusmods.com/skyrimspecialedition/mods/42030) and other mods to open up many new playstyles with alchemical items.
+
+11. [Natural Character Growth and Decay SE](https://www.nexusmods.com/skyrimspecialedition/mods/26292?tab=files) is a mod that dynamically levels up your stat growth (health, stamina, magicka). It disables the usual method of leveling these stats
+
+12. [Curse of the Firmament](https://www.nexusmods.com/skyrimspecialedition/mods/28419) A standing stone overhaul that makes blessings more interesting, gives them all drawbacks, and optionally distributes them to NPCs as well.
 
 ## Magic Mods
 
@@ -50,9 +54,9 @@ Tinvaak comes with a a curated selection of Magic mods to fit a range of differe
 
 Tinvaak 2 completely reworks combat from the previous version by including a fully updated suite of mechanics and animations.
 
-1. [Engarde](https://www.nexusmods.com/skyrimspecialedition/mods/25673) forms the bread and butter of the combat mechanics. It features numerous changes to the way combat is done in Skyrim and is covered in its own guide.
+1. [Engarde](https://www.nexusmods.com/skyrimspecialedition/mods/25673) forms the bread and butter of the combat mechanics. It features numerous changes to the way combat is done in Skyrim and is covered in its own guide. Please check out the mod page and the videos on it to really get a good idea of the mod.
 
-2. [True Directional Movement](https://www.nexusmods.com/skyrimspecialedition/mods/51614) overhauls the third-person gameplay similarly to modern action RPGs, entirely through SKSE. Move and attack in any direction.
+2. [True Directional Movement](https://www.nexusmods.com/skyrimspecialedition/mods/51614) overhauls the third-person gameplay similarly to modern action RPGs, entirely through SKSE. Move and attack in any direction. It also adds a lock-on feature to assist in 3rd person combat.
 
 3. [SkySa](https://www.nexusmods.com/skyrimspecialedition/mods/31390) forms the basis of the new combat animation framework. The Elder Souls style animations are then used to provide realistic and fitting animations for weapons in the game. 
 
