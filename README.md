@@ -82,7 +82,7 @@ Prior to installing Tinvaak, please complete the following steps.
 3. Fully uninstall Skyrim by deleting the folder and the Skyrim Special edition folder inside /Documents/My Games/.
 4. Reinstall Skyrim into a location that is not Program files or your desktop. Somewhere like C:\Games is a good location.
 5. Start the game once and let it do the graphics check. Do not worry about the settings as it will be replaced during installation.
-6. Use the [Downgrade Patcher](https://www.nexusmods.com/skyrimspecialedition/mods/57618) to downgrade your Skyrim SE. **TINVAAK DOES NOT WORK WITH ANNIVERSARY EDITION**
+6. Use the FULL [Downgrade Patcher](https://www.nexusmods.com/skyrimspecialedition/mods/57618) to downgrade your Skyrim SE. **TINVAAK DOES NOT WORK WITH ANNIVERSARY EDITION**
 
 ### Wabbajack Installation
 
