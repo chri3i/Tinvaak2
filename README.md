@@ -194,6 +194,11 @@ Updating is like installing the list. Simply make sure your paths are the same a
 
 ## FAQ
 
+
+### Anniversay Edition
+
+Neither the AE version of the game nor the Creation Club content that comes with it are supported with Tinvaak. It will not work if you just add it!
+
 ### BA Alchemist Arsenal
 
 You need to be level 5 and open the crafting kit to use this. For more detail on it, please see the [advanced gameplay guide](https://github.com/Althro/Tinvaak2/blob/main/Advanced%20Gameplay%20Overview.md).
