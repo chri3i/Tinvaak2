@@ -6,7 +6,7 @@ Almost every aspect of vanilla gameplay in Tinvaak has been changed in some way.
 
 ## Gameplay
 
-Tinvaak uses [Ordii](https://www.nexusmods.com/skyrimspecialedition/mods/55200) as its perk overhaul. This is a slightly tweaked version of Ordinator which allows for skill caps of over 100 and uses Vokrii's skill scaling.
+Tinvaak uses [ReClassified Ordinator](https://www.nexusmods.com/skyrimspecialedition/mods/57527) as its perk overhaul. This is a tweaked version of Ordinator that opens up the possibility for class specific perks.
 
 Various other gameplay mods used include:
 
@@ -30,6 +30,10 @@ Various other gameplay mods used include:
 
 10. [Apothecary](https://www.nexusmods.com/skyrimspecialedition/mods/52130) is a complete overhaul of Skyrim’s alchemy, food, and alcohol systems designed to balance existing options while adding powerful new effects to the game. This is coupled with [BA Alchemist Arsenal](https://www.nexusmods.com/skyrimspecialedition/mods/42030) and other mods to open up many new playstyles with alchemical items.
 
+11. [Curse of the Firmament](https://www.nexusmods.com/skyrimspecialedition/mods/28419) adds downsides to the standing stones in Skyrim, but also makes the blessings more interesting.
+
+12. [Truly Undead](https://www.nexusmods.com/skyrimspecialedition/mods/12642) is responsible for giving undead creatures the ability to revive. Now it requires wits and preparations to kill them completely.
+
 ## Magic Mods
 
 Tinvaak comes with a a curated selection of Magic mods to fit a range of different mage archetypes.
@@ -50,11 +54,13 @@ Tinvaak comes with a a curated selection of Magic mods to fit a range of differe
 
 Tinvaak 2 completely reworks combat from the previous version by including a fully updated suite of mechanics and animations.
 
-1. [Engarde](https://www.nexusmods.com/skyrimspecialedition/mods/25673) forms the bread and butter of the combat mechanics. It features numerous changes to the way combat is done in Skyrim and is covered in its own guide.
+1. [Engarde](https://www.nexusmods.com/skyrimspecialedition/mods/25673) forms the bread and butter of the combat mechanics. It features numerous changes to the way combat is done in Skyrim and is covered in its own guide. 
 
 2. [True Directional Movement](https://www.nexusmods.com/skyrimspecialedition/mods/51614) overhauls the third-person gameplay similarly to modern action RPGs, entirely through SKSE. Move and attack in any direction.
 
 3. [SkySa](https://www.nexusmods.com/skyrimspecialedition/mods/31390) forms the basis of the new combat animation framework. The Elder Souls style animations are then used to provide realistic and fitting animations for weapons in the game. 
+
+**Warning**: Keep in mind that thanks to pairing Engarde with SkySA your power attacks are part of a combo attack, they only work after the first swing! It will take a bit of time to get used to.
 
 ## Quest and Encounter Mods
 
