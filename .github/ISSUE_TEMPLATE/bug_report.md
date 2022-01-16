@@ -3,7 +3,7 @@ name: Bug report
 about: Create a report to help us improve and fix issues
 title: '[BUG] "Details"'
 labels: bug
-assignees: Althro
+assignees: Althro, TheSpaniard, Para0x
 
 ---
 
