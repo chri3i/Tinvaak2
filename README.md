@@ -71,18 +71,22 @@ Space required: Approx 250GB
 
 ## Installation
 
+**Tinvaak DOES NOT work with any builds newer than 1.5.97. You must downgrade your Skyrim to play this list.**
+
 Installing Tinvaak is relatively easy and, if you have nexus premium, will be a simple waiting game. If you are updating the modlist, you can safely skip to the [updating section](#updating).
 
 ### Pre-Installation
 
-Prior to installing Tinvaak, please complete the following steps.
+Prior to installing Tinvaak, please complete the following steps. 
 
 1. Install [Visual C++ x64](https://aka.ms/vs/16/release/vc_redist.x64.exe) & [.Net Runtime v5 desktop x64](https://dotnet.microsoft.com/download/dotnet/5.0/runtime).
 2. Change Skyrim so it does not [automatically update](https://help.steampowered.com/en/faqs/view/71AB-698D-57EB-178C#disable).
-3. Fully uninstall Skyrim by deleting the folder and the Skyrim Special edition folder inside /Documents/My Games/.
-4. Reinstall Skyrim into a location that is not Program files or your desktop. Somewhere like C:\Games is a good location.
+3. Fully uninstall Skyrim by deleting the folder and the Skyrim Special edition folder inside `/Documents/My Games/`.
+4. Reinstall Skyrim into a location that is not Program files or your desktop. Somewhere like `C:\Games` is a good location.
 5. Start the game once and let it do the graphics check. Do not worry about the settings as it will be replaced during installation.
-6. Use the FULL [Downgrade Patcher](https://www.nexusmods.com/skyrimspecialedition/mods/57618) to downgrade your Skyrim SE. **TINVAAK DOES NOT WORK WITH ANNIVERSARY EDITION**
+6. Manually download the [Unofficiall Skyrim Downloader](https://www.nexusmods.com/skyrimspecialedition/mods/61756) and place it somewhere like `C:\Games`
+7. Log-in to the service, select game version `1.5.97.0` and start downloading. 
+8. Once completed, your game will be the correct version for Tinvaak. 
 
 ### Wabbajack Installation
 
