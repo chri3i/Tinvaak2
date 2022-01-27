@@ -1,5 +1,19 @@
 # Changelog
 
+## 2.1.1
+
+**Notes**: **Should be save compatible, provided you have not met Inigo. If you have, then it's not save safe.**
+
+**Buid at:** `soon`
+
+**Info**
+- Fixed issues with Inigo including horse issues, not following and others. Thanks to Annakins for the fix.
+- Fixed issue with Guars attacking when they shouldn't.
+- Fixed issue with ENB darkness.
+- Fixed issue with lockpick skill not levelling
+- Attempted fix of grass related performance issues.
+- Swapped to Nexus based repository for resources. This should hopefully fix issues with the CDN and mega.
+
 ## 2.1 - A new Journey awaits us...
 
 **Notes**: **NOT SAVE COMPATIBLE** Major version update to fix some bugs and also improve performance. You should find performance in cities and in dense wooded areas to be considerably better.
