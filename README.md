@@ -278,6 +278,6 @@ Simply delete the folder and you have uninstalled it.
 
 ## Contact
 
-Whilst I am available primarily on my server and the [Wabbajack Discord](https://discord.gg/wabbajack), please check the [issues](https://github.com/Althro/Tinvaak2/issues) tab on github first if you have any issues. DO NOT DM ME ON DISCORD.
+Whilst I am available primarily on [my server](https://discord.gg/DffHKcszfg), please check the [issues](https://github.com/Althro/Tinvaak2/issues) tab on github first if you have any issues. DO NOT DM ME ON DISCORD.
 
 You are welcome to [contribute](https://github.com/Althro/Tinvaak2/blob/main/Contributing.md) to the list, however please check the [changelog](https://github.com/Althro/Tinvaak2/blob/main/Changelog.md) before you do.
