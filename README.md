@@ -98,9 +98,10 @@ Once you have completed pre-installation, download the [latest version of Wabbaj
 
 Downloading and installing Tinvaak can take a while depending on your internet connection and computer. To install Tinvaak, complete the following steps.
 
-1. Open Wabbajack and click on browse modlists.
-2. Press the download button on Tinvaak and wait for it to download.
-3. Set the installation folder to be somewhere like C:\Games\Tinvaak. **Do not install it to your desktop or downloads folder.**
+1. Download the latest installer from [releases](https://github.com/Althro/Tinvaak2/releases) tab. Move it to a location such as C:\Games.
+2. Open Wabbajack and click on install from disk.
+3. Select the file you just downloaded called `Tinvaak.wabbajack`.
+4. Set the installation folder to be somewhere like C:\Games\Tinvaak. **Do not install it to your desktop or downloads folder.** The downloads folder will autofill.
 4. Press the play button to begin.
 5. Go and pet your nearest fluffy animal whilst Wabbajack does its thing.
 6. If the installation is successful, jump for joy and move onto [post installation](#post-installation). If the installation is unsuccessful, follow what is below.
@@ -111,8 +112,6 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 
 - Could not download x:
 	- Big files can fail to download due to connection issues. You can either run wabbajack again or download the file manually. If you decide to manually download it, make sure to place it in the same place as the other downloads.
-
-	- One file may continually fail is [Elwaps SpeedTree](https://mega.nz/file/xUc0zRLY#NYwbmmHOZhpSF2hpV7hMRYejgZsL_MAIVv_DfjK9JRM). I recommend you download that manually and place it in the same location as the other downloads.
 
 - x is not a whitelisted download:
 
